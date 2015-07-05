@@ -1,0 +1,213 @@
+"","Artists","Submissions"
+"2","JOHN HYNDMAN",51
+"4","Craig Low",23
+"22","Colin McLeod",9
+"30","Kel Moloney",8
+"35","John Edmonds",6
+"5","JOHN HYNDMAN and DAPHNE DURNING",5
+"19","Amanda Richards",5
+"27","Rob Ansell",5
+"43","Martin Lewis",5
+"14","Jack Aicken",4
+"37","Peter Triumph",4
+"40","J. Silver",4
+"45","Mohammed Adnan Hashem Adnan AlKilani",4
+"86","Paul McFadden",4
+"6","Peter Baker",3
+"29","COLTON LAMBERT",3
+"36","Eduardo Bernardi",3
+"41","Simon Porter",3
+"44","Paul LeBeau",3
+"109","David Christie",3
+"15","DAPHNE DURNING and JOHN HYNDMAN",2
+"20","Jessica Cunliffe ",2
+"21","Josh W.C Tabley",2
+"28","samuel renton",2
+"32","Andrew Male",2
+"59","Gary Fox",2
+"60","Christopher Hall",2
+"71","Stephen Brown",2
+"82","I.C.Hegarty",2
+"91","Rick Hamblin",2
+"94","Daisy Huang",2
+"119","Milton Hayward",2
+"126","Simon Darby",2
+"136","Xiaohui Lu",2
+"144","Denise Savage",2
+"170","kel Moloney",2
+"1","Cam Knight",1
+"3","Ivan Bigertul",1
+"7","Jonathan Briden",1
+"8","Nao Fukuhara",1
+"9","maddison brown        jess cournane",1
+"10","Ben Frame",1
+"11","paul Mcneil",1
+"12","Jade Doel",1
+"13","nathaniel",1
+"16","Ryan Allan Donachie",1
+"17","Martin Smith",1
+"18","Andrew Gunn",1
+"23","Madeleine and Millie",1
+"24","Michael van Beek",1
+"25","Harry Insall-Reid",1
+"26","Grant Aitken",1
+"31","Stu Gilpin",1
+"33","Kalisa Zhang",1
+"34","Meeting House Traditional Pattern",1
+"38","Helen Field",1
+"39","Michael Sampson",1
+"42","Chloe",1
+"46","Anthony Powell",1
+"47","Joseph Rademakr and Trent Murphy ",1
+"48","John A Buckley ( Fern designed by Kyle Lockwood )",1
+"49","J O Gerrad",1
+"50","Ethan Bennett",1
+"51","Flag design by J Ansell and K Wang",1
+"52","Otis Frizzell",1
+"53","Patrick Heath",1
+"54","Steve Magendans",1
+"55","Jessica Head",1
+"56","Matthew Marshall",1
+"57","Samuel Barthelmeh",1
+"58","mike jameS mateer",1
+"61","Isabella Inglis",1
+"62","Raphael Franks",1
+"63","Thorrington Brownies",1
+"64","Beorn Sheldon",1
+"65","David Hiatt",1
+"66","John Hilleard",1
+"67","Kyan Sutherland /Cameron Sanders(Cameron Sanders designer of fern",1
+"68","Paul Skilton",1
+"69","Neville Ross Petersen",1
+"70","David S WATTS",1
+"72","ita and zaria",1
+"73","Fern Blackler-Oliver",1
+"74","Rob Macnab",1
+"75","David Sun",1
+"76","Hundertwasser ",1
+"77","Hazel Agnew",1
+"78","Bret de Thier",1
+"79","David Sanderson",1
+"80","Alexander Barrow",1
+"81","Andrew Drake",1
+"83","Craig Brown",1
+"84","Hayden Graham &amp; Simeon Whyle",1
+"85","It is an edit of the existing flag. ",1
+"87","Lindsay Smith",1
+"88","John Rice",1
+"89","Jim Heath",1
+"90","Julia Christensen",1
+"92","Seb Hayward",1
+"93","Marshall Lucas ",1
+"95","kate + rosie",1
+"96","Nicholas M Glasson",1
+"97","wayne doyle",1
+"98","Self",1
+"99","Caleb scrivener",1
+"100","Grant Read",1
+"101","Hayden Bentley",1
+"102","Andrew Brook",1
+"103","Tim Gordon",1
+"104","Hugh Chaston",1
+"105","Arapata Tregerthen",1
+"106","Marama Gravett",1
+"107","Isla Joyce",1
+"108","Trevor Luzmoor &amp; Minhal Al Halabi",1
+"110","TADAAKI KUSAKA",1
+"111","Brooke .J. and Elsie .S.  ",1
+"112","Kaleb Mckay",1
+"113","Grant Pascoe",1
+"114","LUCCA CAMERON",1
+"115","Lily",1
+"116","PETER SUTCLIFFE",1
+"117","Katherine Rutte",1
+"118","Daryl Zuppicich",1
+"120","Timothy Leighton",1
+"121","John Eatwell",1
+"122","Ursula Dougherty",1
+"123","Oskar Pernefeldt",1
+"124","Douglas Fanning",1
+"125","Matthew Polson",1
+"127","Manu Somerville",1
+"128","Ed Sandoval",1
+"129","Christopher James Zuppicich",1
+"130","Gregory David",1
+"131","Nicholas P. Farra",1
+"132","Jack Aicke ",1
+"133","Ciaran Gallagher",1
+"134","Jason Lea",1
+"135","John A. Buckley ( Fern designed by Kyle Lockwood )",1
+"137","Jadyn Obrien      Amelia Cochrane",1
+"138","Kyle Lockwood modified by Mark Callagher (variation)",1
+"139","Brendan Duffy",1
+"140","Paul Mcfadden",1
+"141","Laura Cameron ",1
+"142","Ryan Andrew Stuart",1
+"143","REUBEN FROST  ",1
+"145","Wayne Bow",1
+"146","Alethea Young",1
+"147","Colton Lambert",1
+"148","Owen Winsloe",1
+"149","Wayne William Doyle",1
+"150","Lars Thomsen",1
+"151","T McNaughton",1
+"152","Basil Buwalda",1
+"153","Chas Andrews",1
+"154","Charlotte Ashcroft",1
+"155","Ethan Doughty and Gemma Mclennan",1
+"156","Ryely Burtenshaw-Day",1
+"157","Dominic Hassan",1
+"158","Darren mills",1
+"159","J Collins",1
+"160","the ocean by Christopher Hall",1
+"161","Konna and mason",1
+"162","the Ocean no.2 by Christopher Hall",1
+"163","Andrew Hey",1
+"164","Paul connell",1
+"165","Phillip Bain",1
+"166","Kyle Lockwood",1
+"167","Mark Winstanley",1
+"168","Lawrence McIsaac",1
+"169","Lily Goodall",1
+"171","Liam O&#039;Rourke",1
+"172","Steven Ross",1
+"173","Devon Gee",1
+"174","Charles",1
+"175","Paul Gear",1
+"176","JOHN HERRETT",1
+"177","Hamish Bohny",1
+"178","Allan Visser",1
+"179","Daniel Metcalfe",1
+"180","Elizabeth Smeaton",1
+"181","Graeme Spinks",1
+"182"," K.c Zhong",1
+"183","Jake Groves",1
+"184","Michelle Craig",1
+"185","j",1
+"186","Anna Christensen",1
+"187","Harriet Eglinton",1
+"188","Tony Simons",1
+"189","Caleb Rodgers",1
+"190","Callum and Quinn",1
+"191","paul mcneil",1
+"192","samuel renton :)",1
+"193","Billy Barnes",1
+"194","Sir Alfred Harkness",1
+"195","Peter Andrew Triumph",1
+"196","Nick Wood",1
+"197","Lauri Lee In-Jung Shore",1
+"198","Kevin FitzGerald",1
+"199","Se Mi Kim",1
+"200","Wayne Dwopp",1
+"201","Gareth Gibson",1
+"202","James Broadbent",1
+"203","Jason Kelly",1
+"204","Janoy Casanova",1
+"205","Dr Barry McDonald",1
+"206","Business NZ designed the kiwi symbol used. I put it on a flag.",1
+"207","Kyle Lockwood / Cameron Saunders",1
+"208","Allen Anderson",1
+"1" "Number of Artists:  208"
+"1" "Number of Submissions:  359"
+"1" "Entries Per Person in City:  0.000665513604099119"
+"1" "Ratio of Artists to People in City:  0.000385590054742665"

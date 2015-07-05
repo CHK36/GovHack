@@ -1,0 +1,65 @@
+/assets/flags-designs/4504-flag.jpg,True Colours NZ,Regan,0
+/assets/flags-designs/BlackCrux.jpg,Black Crux,Malcolm Harbrow,0
+/assets/flags-designs/16060-goldenkiwi1.jpg,Golden-Brown Kiwi,Richard Aslett,0
+/assets/flags-designs/2500-frizzell-flag.jpg,Otis Frizzell&#039;s flag design,Otis Frizzell,0
+/assets/flags-designs/12756-newflagredfern5.jpg,Red fern on blue green white,Ruedi Hersche,0
+/assets/flags-designs/5715-2015bluesoutherncrossandkoru.jpg,2015 Blue Southern Cross and Koru,Simon McIvor,0
+/assets/flags-designs/7224-flag1.jpg,Land of waterfalls and rainbows,Heather Knox,0
+/assets/flags-designs/CCF05052015-00000.jpg,Modified version of Klyle Lockwood design,Kyle Lockwood,0
+/assets/flags-designs/NZ-FLAG2-r4.jpg,KoruStar,Jason Keanu,0
+/assets/flags-designs/3357-nz-flagjpeg.jpg,Aotearoa,Ephraim &quot;The Art Athlete&quot; Russell,0
+/assets/flags-designs/3333-sheep-flag.jpg,Woolly or wont he,Michael Tuffin,0
+/assets/flags-designs/16651-newnzflag2.jpg,UnionFern,Shannan Stafford-Hyde,0
+/assets/flags-designs/9123-kiwiflag-pva.jpg,Kiwi Flag,Phillip Andrews,0
+/assets/flags-designs/11278-secondkoruflag.jpg,Two tribes,Nathan Stevens,0
+/assets/flags-designs/16102-wearekiwi-richaslett.jpg,We Are Kiwi - Ko tatou Kiwi,Richard Aslett,0
+/assets/flags-designs/12334-swdwdmnh.jpg,New Zealand&#039;s concept flag.,Daniel Wylie,0
+/assets/flags-designs/18568-kiwiflag-clean-pva.jpg,Fern-kiwi-star,Phillip Andrews,0
+/assets/flags-designs/16047-shinealight.jpg,Shine a Light,Richard Aslett,0
+/assets/flags-designs/15231-wsdkwttc.jpg,Purple Ensign (III),Jose Perezgonzalez,0
+/assets/flags-designs/2914-nzflag.jpg,All Black Kiwi,Nick ,0
+/assets/flags-designs/1686-flag11.jpg,Koru Union,Benjamin Davis,0
+/assets/flags-designs/13773-gmjgggks.jpg,The Calm Before The Storm,Toby Parkes,0
+/assets/flags-designs/6277-2015twinkoru.jpg,2015 Twin Koru,Simon McIvor,0
+/assets/flags-designs/1684-kiwi-tradition.jpg,Kiwi tradition,Gavin Roache,0
+/assets/flags-designs/15825-connorreesflagdesign.jpg,Kiwi,Connor Rees,0
+/assets/flags-designs/12228-vcbundbw.jpg,NZ,Lyn MacDonald,0
+/assets/flags-designs/16050-shinealight-kiwi.jpg,Shine-a-Light [with Kiwi],Richard Aslett,0
+/assets/flags-designs/11349-gw13.jpg,fern and cross,glen williams,0
+/assets/flags-designs/12117-dscf3416.jpg,Kea starry night,James Williams,0
+/assets/flags-designs/11256-korunzflag.jpg,Te Wahi E Tu I : Where I Stand,Nathan Stevens,0
+/assets/flags-designs/15853-images-1.jpg,The Waves,Dick Frizzell,0
+/assets/flags-designs/16246-wearekiwiv2.jpg,We are Kiwi - Ko tatou Kiwi [V2],Richard Aslett,0
+/assets/flags-designs/10095-screenshot2015-05-26at9-49-13am.jpg,Maori Fern Flag,Mya Charlton,0
+/assets/flags-designs/16030-tri-clourkiwi-aslett-smith.jpg,Kiwi Tri-Colour,Graham Smith (idea) / Richard Aslett (design),0
+/assets/flags-designs/1908-gw-flag-v1.jpg,glenw version 1,glen williams,0
+/assets/flags-designs/1680-flag6.jpg,Union Focused,Benjamin Davis,0
+/assets/flags-designs/15810-nathanstirlingflag.jpg,kauri,Nathan Stirling ,0
+/assets/flags-designs/15222-fjplnxjl.jpg,Purple Ensign (I),Jose Perezgonzalez,0
+/assets/flags-designs/12960-nextnzflag.jpg,Native Kiwi eating native Kai,Marc Barry,0
+/assets/flags-designs/5422-rqxzfkvp.jpg,New Zealand,Cameron Luke Smith,0
+/assets/flags-designs/15225-xunwzumk.jpg,Purple Ensign (II),Jose Perezgonzalez,0
+/assets/flags-designs/12840-roydenwilliamsblackflag.jpg,The Triple Star,Kyle Lockwood fern,0
+/assets/flags-designs/5742-gw10.jpg,Southern fern,Glen Williams,0
+/assets/flags-designs/16446-wearekiwiv3.jpg,We are Kiwi - Ko tatou Kiwi [V3],Richard Aslett,0
+/assets/flags-designs/7962-gw12.jpg,fern and cross,glen williams,0
+/assets/flags-designs/8998-newnzflag2.jpg,Island Nation - Twice Discovered,Jordan McNamara-Spackman,0
+/assets/flags-designs/12136-flag3.jpg,wHale of Peace,Patrick Gledhill,0
+/assets/flags-designs/7915-gw11.jpg,Southern Fern 2,glen williams,0
+/assets/flags-designs/10276-aotearoaflag.jpg,Aotearoa New Zealand,Dave charnley ,0
+/assets/flags-designs/15811-jontygoisfordflagdesign.jpg,New Zealander,Jonty Goisford,0
+/assets/flags-designs/14793-nzflagentry2.jpg,Past and Present x2 Flags,Peneamine Heketa Manihera,0
+/assets/flags-designs/16648-newnzflag.jpg,nation-unity,Shannan Stafford-Hyde,0
+/assets/flags-designs/2907-nzflag.jpg,Tricolour Kiwi,Nick,0
+/assets/flags-designs/6895-flagsept1.jpg,NZ southern cross,Russell Harris,0
+/assets/flags-designs/3010-the-crux-and-the-kiwi.jpg,The crux and the kiwi,Gavin Roache,0
+/assets/flags-designs/5223-land-of-the-long-white-cloud1.jpg,Land of the Long White Cloud,Pete Watson,0
+/assets/flags-designs/11021092-1042422722434877-3019730280088047540-n.jpg,my variation,david kauri,0
+/assets/flags-designs/8532-doublekiwi.jpg,The Double Kiwi,Heather Knox,0
+/assets/flags-designs/16036-tri-clourkiwicross-aslett-smith.jpg,Tri-Colour with Kiwi &amp; Stars [V2],Graham Smith and Richard Aslett,0
+/assets/flags-designs/15924-enzignversion2.jpg,&quot;eNZign&quot; Version 2, ,0
+/assets/flags-designs/5712-2015aotearoablue.jpg,2015 &#039;Aotearoa&#039; Blue,Simon McIvor,0
+/assets/flags-designs/17685-solitudewatching.jpg,Solitude Watching,Justin Ward and 10 cent coin designer,0
+/assets/flags-designs/13209-kdugrlmh.jpg,state flag,Daniel Wylie,0
+/assets/flags-designs/14833-nz.jpg,Fern and Black,Michael Robins,0
+/assets/flags-designs/1524-flag.jpg,Convergence,Bernard Kriel,0

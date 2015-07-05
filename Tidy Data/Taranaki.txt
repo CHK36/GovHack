@@ -1,0 +1,28 @@
+"","Artists","Submissions"
+"2","Michael McDonald",25
+"3","T M van Hattum",4
+"4","Geoff Hughes",2
+"5","Roy and Mijina McDowall",2
+"10","Jamie Dombroski",2
+"18","David Wolkoff",2
+"1","Mike Rowley",1
+"6","Alec Hutchinson",1
+"7","Joachim Schoen",1
+"8","Cade Hunger",1
+"9","Spede Pasanen",1
+"11","william prentice",1
+"12","Ian Gundesen and Shane Dunlop",1
+"13","Hundertwasser ",1
+"14","David Gall",1
+"15","Brenda Ardern ",1
+"16","Joy Apps",1
+"17","Matt McGregor",1
+"19","Joel Wirāmu Pauling",1
+"20","Francis O&#039;Sullivan-Lobb",1
+"21","Ross and Oliver Pennington",1
+"22","Blake Cameron",1
+"23","Arvedui Eärnil",1
+"1" "Number of Artists:  23"
+"1" "Number of Submissions:  54"
+"1" "Entries Per Person in City:  0.000492664768994964"
+"1" "Ratio of Artists to People in City:  0.000209838697905262"

@@ -1,0 +1,15 @@
+"","Artists","Submissions"
+"5","Timothy John Barrable",2
+"1","Graeme Axford and others",1
+"2","Nick Wilson",1
+"3","derived from Silver Ferns",1
+"4","Hundertwasser ",1
+"6","Dave Palmer",1
+"7","Paul Schramm",1
+"8","allan vincent",1
+"9","J.Yoshimura",1
+"10","Rees Hill",1
+"1" "Number of Artists:  10"
+"1" "Number of Submissions:  11"
+"1" "Entries Per Person in City:  0.000229803413625253"
+"1" "Ratio of Artists to People in City:  0.000208912194204776"

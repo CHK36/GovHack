@@ -1,0 +1,518 @@
+"","Artists","Submissions"
+"21","Chris Wadsworth",155
+"1","MONICO B. FALLER",83
+"58","Kim Crosland",38
+"50","Andy Law",31
+"52","Martin Hermans",30
+"131","Sam Stradwick",27
+"22","Robert Delaveau",24
+"5","Cameron Gibb",14
+"79","William Hindmarsh",14
+"16","Paul Gallagher",13
+"85","Gareth Gardner",13
+"17","andrew jamieson",12
+"61","Chaosart",10
+"69","Oliver Li",10
+"64","Mari Pettersson",9
+"12","GERARDO CESAR IBARRA VALADEZ",8
+"95","James John Webster",8
+"134","Daniel Crayford and Leon Cayford",8
+"172","326 Collective",8
+"11","Andrew Sutton",7
+"55","Su Jin Lau",7
+"72","Alan T",7
+"120","Matthew Hill",7
+"13","Steve Juergens",6
+"29","Martin Caie",6
+"68","Stephen Petterson",6
+"78","Kieran Breen",6
+"20","Bryce gerhard Matthäus",5
+"111","Dave Brown",5
+"115","MR LISIMAKA NUKU",5
+"116","Dene Andre",5
+"145","Adrian Tyler",5
+"401","Chen-Ta Wu",5
+"7","Brian Cham and James Fitzmaurice",4
+"19","sam stradwick",4
+"122","Cheryl Chong",4
+"126","Jimmy Lugang Wu",4
+"182","Jim Fisher",4
+"216","John Harrison",4
+"253","Zhimin Yang ",4
+"285","Gerbrand van Melle",4
+"313","Josh Munn",4
+"314","Shaun Lee",4
+"342","Andrew Kennedy",4
+"6","Ian Blackford",3
+"14","William Sidnam",3
+"15","Jim Martin",3
+"27","Joel Fletcher",3
+"31","Michael Ashford",3
+"49","Nick Thompson",3
+"98","Travis Cunningham",3
+"99","Otis Frizzell",3
+"101","Oliver Wall",3
+"102","Shane Lynch",3
+"107","peter james blomfield",3
+"110","Mike Kessell",3
+"123","Steven McIntosh-Dona",3
+"139","Vic Burneo",3
+"152","Adrian Stone",3
+"171","John and Michelle Hotham",3
+"185","Lukas Kelly",3
+"213","Dave Sauvage",3
+"219","Julie Sprott",3
+"226","Jim Woolrich",3
+"242","Peter Malcouronne",3
+"308","Gordon Moir",3
+"339","Mark Harrison",3
+"348","Paul Hartigan",3
+"386","Doug Martin",3
+"411","Mike Davison",3
+"463","Ross Stewart",3
+"3","Melody Ullrich",2
+"8","GAN",2
+"26","Mia Hansson",2
+"34","Robert Spurgeon",2
+"38","GARY TURTON",2
+"40","Mark Tyrrell",2
+"45","Jamie Bell",2
+"47","Ruby Ullrich",2
+"59","Loren Francis Robb",2
+"66","James Dean",2
+"74","Douglas Carrie",2
+"82","Dominic Smith",2
+"89","Malcolm White",2
+"93","Briana Cleverley",2
+"96","Chris Parker",2
+"113","Simon Chesterman",2
+"129","Jacob&#039;m Aniterea",2
+"138","Matthew Harris",2
+"147","Sarah Plank",2
+"153","Warren Smith",2
+"154","Garth James Falconer",2
+"155","brendan kavanagh",2
+"160","Alan Pang",2
+"164","Michael Morgan",2
+"167","Don Ferrari",2
+"170","Barry McDonald",2
+"191","stephen ellis",2
+"205","Ross MacDiarmid",2
+"244","James Smith",2
+"260","Kyle Lockwood",2
+"268","Marcel Denize",2
+"270","Me",2
+"278","Peter Reid",2
+"287","Nell May",2
+"289","Stephen Wilson",2
+"292","Daniel J Rodgers",2
+"300","Brendon Sweeney",2
+"304","Dick Frizzell",2
+"309","Paul Baylis",2
+"310","Glen Snow",2
+"318","William Hung",2
+"319","Roy Good",2
+"321","Chris Keall",2
+"322","George Webb",2
+"327","Alex Moulton",2
+"361","Hamish Ross",2
+"369","Roger Smith",2
+"375","Graeme Burtt",2
+"394","Glenn Johnstone",2
+"408","Amelia Ullrich",2
+"417","John Parlane",2
+"432","Steven Lee",2
+"434","Laulie",2
+"459","Dave Paul",2
+"462","Phillip Bannister",2
+"465","David Steward",2
+"495","Michael Smythe",2
+"2","Lionel Barrie Taylor",1
+"4","Cassandra Bates Glover",1
+"9","Joshua Poon",1
+"10","Justin T. Wood",1
+"18","Carole Van Weede",1
+"23","Jordan Zheng ",1
+"24","Douglas Fanning",1
+"25","Luke T",1
+"28","Ocean 2 by Geoff Lamb",1
+"30","Peter Atford",1
+"32","Nyah Ballantyne",1
+"33","Ken Griffin",1
+"35","Allan Lightbourne",1
+"36","Lindy Mary Fisher",1
+"37","Dejan Nakarada-Kordic",1
+"39","Phil marsh",1
+"41","Will Sellar",1
+"42","Christine Wing Kit Yip",1
+"43","Emmy van Middelaar",1
+"44","Cole Lions",1
+"46","Wayne Young",1
+"48","Marion Blumenstein",1
+"51","Jamie Gates",1
+"53","Serafina Quinn",1
+"54","Xiaojing Liu",1
+"56","Hundertwasser ",1
+"57","David Horning",1
+"60","Geoff Bymark",1
+"62","Angela Inglis",1
+"63","Patrick Burke",1
+"65","Chris Parker (Fern by J Ansell &amp; K Wang)",1
+"67","James T",1
+"70","LuMin Yao",1
+"71","Blair Lewis",1
+"73","Andy Bennett",1
+"75","Phil Douglas",1
+"76","Jennifer Goldsack",1
+"77","Andrew Jamieson",1
+"80","Trevor &#039;Ofamo&#039;oni",1
+"81","Daniel O&#039;brien",1
+"83","Neil Welham",1
+"84","Graham Smith",1
+"86","Robert Bell",1
+"87","Dexter Edwards",1
+"88","KEQIANG FANG",1
+"90","D B Daglish",1
+"91","Kevin leabourn",1
+"92","BAYAN ELZAYYAT",1
+"94","Warren E Smith",1
+"97","Angelo Li",1
+"100","Andrew Brockie",1
+"103","Steve Wilson",1
+"104","Chisholm Boielle",1
+"105","Alice",1
+"106","Geoffrey Joe",1
+"108","David Stewart",1
+"109","Ben",1
+"112","Claire-Lucia Ingram",1
+"114","Joe Mc Ardle",1
+"117","tut blumental",1
+"118","Curtis Leaning",1
+"119","Joy Han",1
+"121","Joseph Fa&#039;afiu",1
+"124","Angus Mackenzie",1
+"125","John Mitchell",1
+"127","Brian Nedic",1
+"128","Victor Edsel ",1
+"130","A variation of Otis Frizzell&#039;s flag design",1
+"132","Brian Potter (with fern design by Kyle Lockwood)",1
+"133","Tanya Ashken",1
+"135","Jason Chen and David Mabbott",1
+"136","Magnus Aasrud",1
+"137","Joshua Pritchard",1
+"140","Dean Poole",1
+"141","Lynne Fergusson ",1
+"142","Dennis Cassidy",1
+"143","Joachim Schoen",1
+"144","Karoly Deltai",1
+"146","Johan Tasman",1
+"148","David MacGregor",1
+"149","Daniel Fletcher",1
+"150","Chris Atkins",1
+"151","Rory James Kelly",1
+"156","Bruce Gibson",1
+"157","WILLIAM MAKOARE fern from Kyle Lockwood",1
+"158","Chris Melville",1
+"159","Rod Howard",1
+"161","Grant Schultz",1
+"162","RNZAF",1
+"163","Matthew Lyons",1
+"165","Capt. James J. O&#039;Donnell",1
+"166","Bridgid Davey",1
+"168","Alofi Kanter",1
+"169","Garth Mudford",1
+"173","Vic Burneo and Mike Davison from Auckland",1
+"174","Patrick Wagner + Jonathan Dower",1
+"175","Benjamin Ra",1
+"176","Rohaan",1
+"177","Noel Crombie",1
+"178","Kush Raniga",1
+"179","Lian Qin",1
+"180","Paul Honing ",1
+"181","Juliet Shepherd and Gemma Fuller",1
+"183","Sophie Wilson",1
+"184","Charly Joan Jacobsen",1
+"186","Jordan Morris",1
+"187","Martin Allen",1
+"188","Enzo Giordani",1
+"189","Michaela Cook",1
+"190","The Koru from the Tino Rangatira flag and the Southern Cross from the nz Flag",1
+"192","Holly Spring",1
+"193","David Wood",1
+"194","Jordan Watson",1
+"195","Nathan Dreadon",1
+"196","Stuart Gray / George Gray",1
+"197","Bruce Doscher",1
+"198","Manu Donald",1
+"199","Robert L. Hooper",1
+"200","incl. fern&#039;s graphic from designassembly.org.nz",1
+"201","Bruce Tupp",1
+"202","Lanskoj",1
+"203","Denen Chile",1
+"204","James Guthrie",1
+"206","Dave Clark",1
+"207","Krishna Gordhan",1
+"208","Paul Hartigan &amp; Christopher Johnstone",1
+"209","Louise Johnstone",1
+"210","Dave Clark (Fern)",1
+"211","the Southern Cross in black and white by Andrew Stone",1
+"212","Harrison Boys",1
+"214","Dene Green",1
+"215","Ocean 3 by Geoff Lamb",1
+"217","Peter Francis",1
+"218","Mikkah Drake",1
+"220","Sean Ryan",1
+"221","Tazze Sidnam",1
+"222","Phil R",1
+"223","Leonard Charles",1
+"224","Peter Poortman",1
+"225","Georgia Glory",1
+"227","Karen Stewardson",1
+"228","Matthias Schmutz",1
+"229","Billy Apple",1
+"230","Shaun Kearney",1
+"231","James Bowman",1
+"232","Adapted from Kyle Lockwood and Neil Mussett",1
+"233","Seyhan Totuk",1
+"234","Kaea Adams",1
+"235","Ron Davis",1
+"236","Muthana Noori",1
+"237","Based upon the the Tino Rangatiratanga flag designed by Hiraina Marsden",1
+"238","Vincent C. Stone",1
+"239","Jackson Ataaere",1
+"240","Tim Robinson",1
+"241","Lech Janczewski",1
+"243","Kirby John Wood",1
+"245","Stanley Arthur Palmer",1
+"246","Ramy Rammal",1
+"247","Kevin Wilson",1
+"248","Jessica Winquist",1
+"249","Eden Rose-Yon",1
+"250","Bartholomew Mckush",1
+"251","Brian Cham",1
+"252","Malith Tudugala Tennakoon",1
+"254","Benjamin Holloway",1
+"255","Rhys David Morgan",1
+"256","Gabriel Michael George Ataya",1
+"257","Anthony Petty",1
+"258","James Ringwood",1
+"259","PJ Taliva&#039;a",1
+"261","Mr Keith Middleton",1
+"262","Jack Crump-Leys",1
+"263","Clint Woolly",1
+"264","Brad",1
+"265","Hamish Murphy",1
+"266","Bobby Lowe",1
+"267","Jon Kearins",1
+"269","Adam Widera",1
+"271","Underdogdesign",1
+"272","Aqsa Kothiwala",1
+"273","Alofi Kanter ",1
+"274","Sam Porath",1
+"275","Hannah Pilley",1
+"276","Alexander Jonothan Baskett Hosking",1
+"277","Keith Watcyn Williams",1
+"279","Ben Viall",1
+"280","Doug Godfrey",1
+"281","Lindsay",1
+"282","Ocean 4 by Geoff Lamb",1
+"283","Jason Peters",1
+"284","Bruce Richard Long ",1
+"286","Jacinda Turnbull-Harman",1
+"288","Maddy N",1
+"290","John Ansell",1
+"291","Adam Herlihy",1
+"293","George Lucas",1
+"294","Jason Wells-Lakeland",1
+"295","Justin Newcombe",1
+"296","Kyle Lockwood design modified by Chris Thom",1
+"297","Brendan Vercoe",1
+"298","ron davidson",1
+"299","a Long White Cloud under the Southern Cross in the Pacific Ocean. by Dene Andre",1
+"301","inspired by Kyle Lockwood &amp; Anton Christopher",1
+"302","John Highland",1
+"303","bryce gerhard mathews",1
+"305","David Mabbott",1
+"306","Richelle Adams",1
+"307","Peter James Blomfield",1
+"311","Liam Walker",1
+"312","Schlomo Goldstein ",1
+"315","Seth Josephs",1
+"316","Chris Macmillan",1
+"317","Warren Mara",1
+"320","Christopher Waldvogel",1
+"323","Alan Davidson ",1
+"324","William Henry Oosterman",1
+"325","Louis Valenzuela",1
+"326","Courtenay Benjaman Bernard",1
+"328","Part -  Tino Rangatira  - Part Southern Cross",1
+"329","Daniel Lunn",1
+"330","Sam Price",1
+"331","Regina Huddersfield",1
+"332","William Makoare",1
+"333","Sam Judson",1
+"334","Brent Chambers",1
+"335","Hannah Rossiter",1
+"336","Heath Sadlier",1
+"337","Eva Joan Wadsworth",1
+"338","Hilary Halpin ",1
+"340","Martin Hermans (fern by Kyle Lockwood)",1
+"341","Mabel &#039;Polly&#039; Pollock",1
+"343","Koru from Tino rangatira Flag Southern Cross from Nz Flag",1
+"344","Gordon",1
+"345","Jared Trice",1
+"346","Duncan Munro",1
+"347","Philippa Hawken",1
+"349","Silver Fern design by Dave Clark",1
+"350","Denise Fung",1
+"351","Lance Vazey",1
+"352","A Salarzai",1
+"353","Kyle Lockwood modified by Alan T",1
+"354","Luke Cochrane",1
+"355","Gary O&#039;Neil",1
+"356","Ronald Rebers",1
+"357","Ian MacKrill",1
+"358","Gary Catlin",1
+"359","Chris McCarthny",1
+"360","James Pearce",1
+"362","Zoe Smith",1
+"363","David Grenfell Knight",1
+"364","Ocean 1 by Geoff Lamb",1
+"365","David Gibson",1
+"366","Colin Simon",1
+"367","mark bovaird",1
+"368","-",1
+"370","Jurjevitch",1
+"371","Charlie Stone",1
+"372","Phil Marsh",1
+"373","Gregory Ross",1
+"374","Ben Holloway",1
+"376","dave creswell",1
+"377","Amy Ding",1
+"378","Zhang Mingshan",1
+"379","Steve Aoki/Robin Williams",1
+"380","Gregory David",1
+"381","MDK",1
+"382","Lynda Murphy",1
+"383","Kevin Allen",1
+"384","Josh Page",1
+"385","Gan An",1
+"387","Oscar Aspinall",1
+"388","Keira Conboy",1
+"389","Toby West McWilliams",1
+"390","Joshua Zhong",1
+"391","Shananne Joyce",1
+"392","Jon Smith",1
+"393","Adaptation from design of Ryan McCormack &amp; Mike Davison from Otago https://www.govt.nz/browse/engaging-with-government/the-nz-flag-your-chance-to-decide/gallery/design/10143",1
+"395","Erik Bates",1
+"396","Thomas Bilkey",1
+"397","Andy Jaquet",1
+"398","Tama",1
+"399","Joana ",1
+"400","Virginia Austin",1
+"402","Harriet Laughton",1
+"403","Mix from Hluxton",1
+"404","Blair Chant",1
+"405","FAY Robertson",1
+"406","George (alias Clark) Titman",1
+"407","Sarah",1
+"409","Carol Green",1
+"410","Depei Bai",1
+"412","Alex Buckle",1
+"413","John Sutherland",1
+"414","Derek Paterson",1
+"415","Thomas Fergusson",1
+"416","Maurice van Liempd",1
+"418","Mike Peebles",1
+"419","David Robinson (Surf silhouette)",1
+"420","Edit of James Bowman&#039;s Koru Fern",1
+"421","Bligh",1
+"422","Robert Macfarlane",1
+"423","Andrew McGregor",1
+"424","George David Gray",1
+"425","M. P. Kusay",1
+"426","Alex Saywell",1
+"427","Edward Waldegrave",1
+"428","Brighouse Family",1
+"429","Emily Stewart",1
+"430","Milan Maodus",1
+"431","Rebecca Ross",1
+"433","Jamie Hosking",1
+"435","Yanina Mashkina",1
+"436","Keri Henare",1
+"437","oceans by Silver Fern by Dave Clark",1
+"438","Jay Russell",1
+"439","Jacob James",1
+"440","Cameron Sanders",1
+"441","Tim K Barry",1
+"442","Ellie wallis",1
+"443","Kowhaiwhai sourced from Wikimedia Commons - 1896 Maori Rafter Pattern &#039;Untitled&#039;. ",1
+"444","Maurice Parsons",1
+"445","Alex T",1
+"446","Darren Burch",1
+"447","Sergei Groutso",1
+"448","Brent Jackson",1
+"449","J Rapanui",1
+"450","Callum Wilson",1
+"451","Dawn Smith",1
+"452","Junjet Trasmonte",1
+"453","Shiv Malkani",1
+"454","Sebastian Paul",1
+"455","Darcy Price",1
+"456","Joshna Baskar",1
+"457","Andrew Bradley",1
+"458","Captain Robert Hanlon",1
+"460","Tau Ceti One",1
+"461","Joel Stevens",1
+"464","Karl Nicholas Goddard",1
+"466","Keith Herewini",1
+"467","Jakob Woods",1
+"468","Roger Meyers",1
+"469","Steve Whitehouse",1
+"470","It is an edit of the existing flag. ",1
+"471","Mike Ullrich",1
+"472","Greg Parker",1
+"473","Paul KIM",1
+"474","Stefan Fortuin",1
+"475","the Southern Cross by Andrew Stone",1
+"476","Peter sedgeman",1
+"477","Paul King",1
+"478","Juliane Smith",1
+"479","Ivan Kidd",1
+"480","Shirley Owen",1
+"481","Alan Clarke",1
+"482","Bruce Wenham",1
+"483","KristianThompson",1
+"484","Gordon Clifton",1
+"485","Geoff Wigglesworth",1
+"486","Michael Moloney",1
+"487","James Dean ",1
+"488","Kingsley Seol",1
+"489","Nigel Lee",1
+"490","Robin Banks",1
+"491","Deacon Qiu-Moreland",1
+"492","Tomas Cottle",1
+"493","Ross Paterson",1
+"494","Lewis Poll",1
+"496","Aston Talbot",1
+"497","Oshani Mudannayaka",1
+"498","Ronald Crummer",1
+"499","hluxton",1
+"500","inspired by Kyle Lockwood ",1
+"501","MRNAHUITO",1
+"502","Johnny-Angel",1
+"503","John Sullivan",1
+"504","Erwin Versleijen",1
+"505","Rachele Hales",1
+"506","Michael McDonald",1
+"507","David Xu",1
+"508","Frida den boogert",1
+"509","Robin Carter-Stuart",1
+"510","Gemma Shier",1
+"511","Matthew P",1
+"512","Mohammed Yakub",1
+"513","Larnie by Larnie SMITH",1
+"1" "Number of Artists:  513"
+"1" "Number of Submissions:  1221"
+"1" "Entries Per Person in City:  0.000862562254953905"
+"1" "Ratio of Artists to People in City:  0.000362403306135424"
