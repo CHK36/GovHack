@@ -5,7 +5,11 @@ We did the web scraping of flag information from the government website using C\
 
 The statistical analysis was done using R.
 
+The actual app was made using C# and Visual Studio.
+
 File pathes have been dashed (-----) to maintain anonymity.
+
+Relevant files that we used can also be found in this repository.
 
 NOTE: The executable for the main application has the following directory -
 
