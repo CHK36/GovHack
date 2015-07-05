@@ -1,0 +1,44 @@
+"","Artists","Submissions"
+"4","Jason Paul Troup",28
+"2","Patricia Roberts",20
+"17","Ben Pearce",7
+"12","Maurice Belz",5
+"7","Peter van Zijll de Jong",3
+"9","Dave Waugh",3
+"15","George Williams",3
+"29","Terry Taaffe",3
+"5","Jason Troup",2
+"8","John Gault",2
+"1","Robert Winchester",1
+"3","thomas allen dear",1
+"6","Mike Davison",1
+"10","Dominic Carroll of Gisborne",1
+"11","Annette Ericksen",1
+"13","Reuben Bawden",1
+"14","D Y Variation by DY",1
+"16","Deane Hadfield",1
+"18","Sam Elliott",1
+"19","Barry Middleton",1
+"20","Hundertwasser ",1
+"21","Fern by J Ansell",1
+"22","Mark Lynskey",1
+"23","James Ringwood",1
+"24","Evgeny Fardman",1
+"25","Jesse Tinning",1
+"26","John Willson",1
+"27","Sam Taylor",1
+"28","Matthew Doole",1
+"30","Allan McHardy",1
+"31","Nicolas Hudson",1
+"32","MILES REEVE",1
+"33","Arron Davies",1
+"34","James Lowe",1
+"35","Maximillian Suchy",1
+"36","Sandra Firman",1
+"37","Stephen Harrison",1
+"38","Brian Wakefield",1
+"39","Robert Bell",1
+"1" "Number of Artists:  39"
+"1" "Number of Submissions:  105"
+"1" "Entries Per Person in City:  0.000694540908459508"
+"1" "Ratio of Artists to People in City:  0.000257972337427817"

@@ -1,0 +1,12 @@
+"","Artists","Submissions"
+"4","Michael PORTER",7
+"1","Lesley Hunt",2
+"5","David Kenneth Langham",2
+"2","Briar Parkin",1
+"3","D Cunniffe",1
+"6","Tom Trolove",1
+"7","John Kershaw",1
+"1" "Number of Artists:  7"
+"1" "Number of Submissions:  15"
+"1" "Entries Per Person in City:  0.000253656886784476"
+"1" "Ratio of Artists to People in City:  0.000118373213832756"

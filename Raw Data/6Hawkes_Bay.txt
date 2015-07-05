@@ -1,0 +1,105 @@
+/assets/flags-designs/19435-kiwiflag2.jpg,Green Kiwi,Robert Winchester,0
+/assets/flags-designs/8316-flagpcoolnzdotnet.jpg,Flag P (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/18562-006.jpg,happy kiwis fly their fiag,thomas allen dear,0
+/assets/flags-designs/15213-kiwiflag23.jpg,KIWIFLAG # 23,Jason Paul Troup,0
+/assets/flags-designs/15108-kiwiflag2.jpg,KIWIFLAG#2,Jason Troup,0
+/assets/flags-designs/BLACK-JACK-FLAG-Mike-Davison.jpg,Black Jack,Mike Davison,0
+/assets/flags-designs/8346-flagjcoolnzdotnet.jpg,Flag J (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/17521-flag-2.jpg,Kiwi Flag,Peter van Zijll de Jong,0
+/assets/flags-designs/8379-flagecoolnzdotnet.jpg,Flag E (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/1557-kiwiflag-web.jpg,KIWIFLAG,Jason Troup,0
+/assets/flags-designs/8278-flagtcoolnzdotnet.jpg,Flag T (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/8064-wpcwlczw.jpg,NZUK Flag Stars and Stripes 3,John Gault,0
+/assets/flags-designs/15901-scb.jpg,Southern Cross of Kiwis,Dave Waugh,0
+/assets/flags-designs/8965-dominiccarrollredblue.jpg,Transition (variation),Dominic Carroll of Gisborne,0
+/assets/flags-designs/1843-nzflag.jpg,Blue/White/Green Koru,Annette Ericksen,0
+/assets/flags-designs/8280-flagscoolnzdotnet.jpg,Flag S (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/11487-traditionalblue.jpg,Blue Traditional,Maurice Belz,0
+/assets/flags-designs/17629-sfern1a.jpg,Seeds for Tomorrow,Dave Waugh,0
+/assets/flags-designs/16161-kiwiflag29.jpg,KIWIFLAG # 28,Jason Paul Troup,0
+/assets/flags-designs/16330-kiwiflag30.jpg,KIWIFLAG # 30,Jason Paul Troup,0
+/assets/flags-designs/15214-kiwiflag24.jpg,KIWIFLAG # 24,Jason Paul Troup,0
+/assets/flags-designs/13495-image.jpg,Southern Explosion,Reuben Bawden,0
+/assets/flags-designs/16329-kiwiflag27.jpg,KIWIFLAG # 27,Jason Paul Troup,0
+/assets/flags-designs/5644-nzjack.jpg,A progressive nation,D Y Variation by DY,0
+/assets/flags-designs/15208-kiwiflag21.jpg,KIWIFLAG # 21,Jason Paul Troup,0
+/assets/flags-designs/15139-kiwiflag12.jpg,KIWIFLAG # 12,Jason Paul Troup,0
+/assets/flags-designs/8334-flagmcoolnzdotnet.jpg,Flag M (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/15126-kiwiflag6.jpg,KIWIFLAG # 6,Jason Paul Troup,0
+/assets/flags-designs/6999-nz-flag-southern-cross.jpg,Southern Cross,George Williams,0
+/assets/flags-designs/16360-img-9813.jpg,Peacemaker Flag,Deane Hadfield,0
+/assets/flags-designs/15129-kiwiflag7.jpg,KIWIFLAG # 7,Jason Paul Troup,0
+/assets/flags-designs/17989-benjaminpearceflahconcept9.jpg,Earth Sky North South V1,Ben Pearce,0
+/assets/flags-designs/16159-kiwiflag26.jpg,KIWIFLAG # 26,Jason Paul Troup,0
+/assets/flags-designs/8370-flaggcoolnzdotnet.jpg,Flag G (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/15193-kiwiflag15.jpg,KIWIFLAG # 15,Jason Paul Troup,0
+/assets/flags-designs/13489-znbhfudh.jpg,spirt of New Zealand,Sam Elliott,0
+/assets/flags-designs/4993-newflag.jpg,Partnership,Barry Middleton,0
+/assets/flags-designs/15211-kiwiflag22.jpg,KIWIFLAG # 22,Jason Paul Troup,0
+/assets/flags-designs/11496-modernblack.jpg,Traditional Blue,Maurice Belz,0
+/assets/flags-designs/11497-modernblue.jpg,Traditional Blue,Maurice Belz,0
+/assets/flags-designs/6175-koru-flag-svg.jpg,Koru Flag,Hundertwasser ,0
+/assets/flags-designs/9313-jvwxwkzb.jpg,Stars and Stripes 4,John Gault,0
+/assets/flags-designs/8317-flagocoolnzdotnet.jpg,Flag O (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/15196-kiwiflag16.jpg,KIWIFLAG # 16,Jason Paul Troup,0
+/assets/flags-designs/15541-fernwawata.jpg,wawata,Fern by J Ansell,0
+/assets/flags-designs/17992-benjaminpearceflahconcept6.jpg,Earth Sky North South V3,Ben Pearce,0
+/assets/flags-designs/17995-benjaminpearceflahconcept10.jpg,Earth Sky North South V6,Ben Pearce,0
+/assets/flags-designs/9316-flag1.jpg,Design 1,Mark Lynskey,0
+/assets/flags-designs/NZ-flag-2.jpg,Bicycle of NZ,James Ringwood,0
+/assets/flags-designs/15201-kiwiflag18.jpg,KIWIFLAG # 18,Jason Paul Troup,0
+/assets/flags-designs/15204-kiwiflag19.jpg,KIWIFLAG # 19,Jason Paul Troup,0
+/assets/flags-designs/3760-nz-flag.jpg,United Aotearoa,Evgeny Fardman,0
+/assets/flags-designs/8293-flagrcoolnzdotnet.jpg,Flag R (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/15142-kiwiflag13.jpg,KIWIFLAG # 13,Jason Paul Troup,0
+/assets/flags-designs/15135-kiwiflag10.jpg,KIWIFLAG # 10,Jason Paul Troup,0
+/assets/flags-designs/4293-nz-flag-design-2-update.jpg,Silver fern flag variation,Jesse Tinning,0
+/assets/flags-designs/12990-nzflag-page0001.jpg,An Evocative New Zealand Flag,John Willson,0
+/assets/flags-designs/15112-kiwiflag4.jpg,KIWIFLAG # 4,Jason Paul Troup,0
+/assets/flags-designs/8338-flaglcoolnzdotnet.jpg,Flag L (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/15138-kiwiflag11.jpg,KIWIFLAG # 11,Jason Paul Troup,0
+/assets/flags-designs/15111-kiwiflag3.jpg,KIWIFLAG # 3,Jason Paul Troup,0
+/assets/flags-designs/7060-nz-flag-southern-cross2.jpg,Southern Cross II,George Williams,0
+/assets/flags-designs/17986-benjaminpearceflahconcept.jpg,Circles,Ben Pearce,0
+/assets/flags-designs/8358-flagicoolnzdotnet.jpg,Flag I (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/6613-nzflagconcept-themightyislands.jpg,The Mighty Islands,Sam Taylor,0
+/assets/flags-designs/15547-wawata.jpg,wawata,Matthew Doole,0
+/assets/flags-designs/8367-flaghcoolnzdotnet.jpg,Flag H (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/17449-13951j-taafenewzealandflagentry-1-page-001.jpg,The Colours of our Counntry,Terry Taaffe,0
+/assets/flags-designs/8400-flagbcoolnzdotnet.jpg,Flag B (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/10780-flag-1.jpg,NZ All Grown Up,Allan McHardy,0
+/assets/flags-designs/11284-nzflag9.jpg,New United Flag,Nicolas Hudson,0
+/assets/flags-designs/17524-flag-3.jpg,Kiwi Flag,Peter van Zijll de Jong,0
+/assets/flags-designs/18153-nzflag.jpg,NIGHT &amp; DAY,MILES REEVE,0
+/assets/flags-designs/11503-kauriflagidea.jpg,Strength through Adversity,Arron Davies,0
+/assets/flags-designs/8389-flagccoolnzdotnet.jpg,Flag C (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/17452-13951j-taafenewzealandflagentry-1-page-002.jpg,The Colours of our Country 2,Terry Taaffe,0
+/assets/flags-designs/10662-mynzflag.jpg,Southern Sun,James Lowe,0
+/assets/flags-designs/15145-kiwiflag14.jpg,KIWIFLAG # 14,Jason Paul Troup,0
+/assets/flags-designs/15132-kiwiflag8.jpg,KIWIFLAG # 8,Jason Paul Troup,0
+/assets/flags-designs/11493-moderngreen.jpg,Traditional Blue,Maurice Belz,0
+/assets/flags-designs/15897-sfern1.jpg,Silver Fern Stars,Dave Waugh,0
+/assets/flags-designs/15216-kiwiflag25.jpg,KIWIFLAG # 25,Jason Paul Troup,0
+/assets/flags-designs/6874-doublekoruredgreen.jpg,Double Koru Variation,Maximillian Suchy,0
+/assets/flags-designs/17998-benjaminpearceflahconcept4.jpg,Earth Sky North South V7,Ben Pearce,0
+/assets/flags-designs/8376-flagfcoolnzdotnet.jpg,Flag F (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/17842-fgbduplf.jpg,Land Sky Koro,Sandra Firman,0
+/assets/flags-designs/17458-13951j-taafenewzealandflagentry-1-page-003.jpg,The Colours of our Country  3,Terry Taaffe,0
+/assets/flags-designs/18001-benjaminpearceflahconcept3.jpg,NZ Hand in Hand,Ben Pearce,0
+/assets/flags-designs/16872-flagdesign.jpg,One People,Stephen Harrison,0
+/assets/flags-designs/11490-traditionalblacktoright.jpg,Traditional Black to the right,Maurice Belz,0
+/assets/flags-designs/17991-benjaminpearceflahconcept7.jpg,Earth Sky North South V2,Ben Pearce,0
+/assets/flags-designs/7006-nz-flag-first-sun.jpg,The First Light,George Williams,0
+/assets/flags-designs/8325-flagncoolnzdotnet.jpg,Flag N (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/8308-flagqcoolnzdotnet.jpg,Flag Q (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/8410-flagacoolnzdotnet.jpg,Flag A (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/17518-flag-1.jpg,Kiwi Flag,Peter van Zijll de Jong,0
+/assets/flags-designs/15207-kiwiflag20.jpg,KIWIFLAG # 20,Jason Paul Troup,0
+/assets/flags-designs/15198-kiwiflag17.jpg,KIWIFLAG # 17,Jason Paul Troup,0
+/assets/flags-designs/14716-xgmsbbsh.jpg,Hope,Brian Wakefield,0
+/assets/flags-designs/8340-flagkcoolnzdotnet.jpg,Flag K (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/16162-kiwiflag28.jpg,KIWIFLAG # 29,Jason Paul Troup,0
+/assets/flags-designs/15115-kiwiflag5.jpg,KIWIFLAG # 5,Jason Paul Troup,0
+/assets/flags-designs/15133-kiwiflag9.jpg,KIWIFLAG # 9,Jason Paul Troup,0
+/assets/flags-designs/8380-flagdcoolnzdotnet.jpg,Flag D (coolnz.net),Patricia Roberts,0
+/assets/flags-designs/10485-newflag.jpg,Happy 2,Robert Bell,0

@@ -1,0 +1,51 @@
+"","Artists","Submissions"
+"11","Pax Zwanikken",17
+"5","Aidan Curran",16
+"4","Ray Genet",6
+"3","Jamie O&#039;Meagher",3
+"16","Thomas Newton",3
+"24","Tim Hunt",3
+"9","Kyle Lockwood",2
+"14","Tao Wells",2
+"15","Alistair Turley",2
+"25","ron cox design + graphics",2
+"27","Ben Timmins",2
+"1","Bret de Thier",1
+"2","Rhyce Barker",1
+"6","Arthur Hawke",1
+"7","Dave van der Velden",1
+"8","Ray Bolderson Design ",1
+"10","Lars Rud Fyhn ",1
+"12","Ross Cullen",1
+"13","Hamish Paice",1
+"17","Sally Gaffney",1
+"18","Richard de Hamel",1
+"19","Doug &amp; Alan Gordon",1
+"20","Frank van der Plas",1
+"21","Amberli Hartwell",1
+"22","Bruce Collings",1
+"23","Greg Keeble",1
+"26","Rochelle",1
+"28","Harvey Wilson",1
+"29","Hundertvasser",1
+"30","Robert Jenkin",1
+"31","W Samuels",1
+"32","Stephen Harris",1
+"33","Robert MacKay",1
+"34","Penny Royal",1
+"35","Robert Hornibrooke",1
+"36","Steven Galpin",1
+"37","Barry McDonald",1
+"38","Bernsrd Leslie Redshaw",1
+"39","Kay McQuire",1
+"40","Miritza Vining",1
+"41","Mike Rodwell",1
+"42","Philip Peter HICKFORD",1
+"43","Marlene Naude",1
+"44","Benb Mitchell and James Merwood",1
+"45","Stephanie Parkin",1
+"46","ian kearney",1
+"1" "Number of Artists:  46"
+"1" "Number of Submissions:  93"
+"1" "Entries Per Person in City:  0.00149623527897548"
+"1" "Ratio of Artists to People in City:  0.000740073363794324"
