@@ -1,0 +1,504 @@
+/assets/flags-designs/9676-flag-2015-05-25-tukutuku3.jpg,Tukutuku 03,Kris Sowersby,0
+/assets/flags-designs/16054-flag.jpg,Water &amp; Sky,Nick de Jardine,0
+/assets/flags-designs/18150-fourwardfinal.jpg,FourWard,Richard Appleby,0
+/assets/flags-designs/10635-fernzealandflag-horizontal2.jpg,FernZealand Flying frond ,Gerad Taylor,0
+/assets/flags-designs/18685-zeal2-1.jpg,Zeal (Long White Cloud Version 3),Steven Crundwell,0
+/assets/flags-designs/10273-newflag.jpg,Blue Background Modified / Compromise of Hayden Yeah&#039;s and James Pearce&#039;s designs inspired,Kyle Lockwood by Murray Lauder,0
+/assets/flags-designs/8479-korusunrise.jpg,Koru Horizon,Gerad Taylor,0
+/assets/flags-designs/13866-redskyatnightindigowhitestarsmedium.jpg,Red sky at night (Marine version of (Out of the blue)) Indigo Blue white star version,Duncan White,0
+/assets/flags-designs/9553-twoislandsamongthestars.jpg,Two Islands Among the Stars,Lachlan Philipson,0
+/assets/flags-designs/19596-fullsizerender.jpg,Kiwi,Keith Williamson,0
+/assets/flags-designs/11533-flag-v002.jpg,Fusion,Lauren Sanson,0
+/assets/flags-designs/19335-longwhitecloudconsellation.jpg,Long white cloud constellation,Scott Gordon,0
+/assets/flags-designs/13837-mucvtcdg.jpg,Kiwi icons,Neil Palfreyman,0
+/assets/flags-designs/8623-fernzealandflag6.jpg,FernZealand flag,Gerad Taylor,0
+/assets/flags-designs/14347-flagwpa-5.jpg,Under the southern cross,Wendy Armitage,0
+/assets/flags-designs/3607-peaceful-freedom.jpg,Peaceful Freedom,Edwin Hermann,0
+/assets/flags-designs/15361-newzealandflag.jpg,Hello/Kia Ora New Zealand,Monique Henderson,0
+/assets/flags-designs/18688-zeal1-0.jpg,Zeal (Original Colours),Steven Crundwell,0
+/assets/flags-designs/7138-davidsflagdesign.jpg,NZ FLAG,David Watson,0
+/assets/flags-designs/7012-taha-o-te-rangi-2.jpg,Taha o te rangi (Edge of the Heavens) #2,Grant Buist,0
+/assets/flags-designs/10315-color-1234.jpg,Celebrating Diversity Flag ,Pamela Glading,0
+/assets/flags-designs/8305-flag-2015-05-en-abyme-08.jpg,En Abyme 08,Kris Sowersby,0
+/assets/flags-designs/7164-10675765-10203942086746488-2046400138053722807-n.jpg,Flags of the future past (Full Set),Karthik Raman,0
+/assets/flags-designs/6399-supg2.jpg,Beige and Brown without the Crown,PJ Rees,0
+/assets/flags-designs/10548-juqmwuvz.jpg,NZ Flag,gus watt,0
+/assets/flags-designs/9637-newnzflag.jpg,BWFG1 (someone else can think of a better name if accepted),Brent Willis,0
+/assets/flags-designs/16369-greenfern.jpg,Green Fern Design,Mark Hollis,0
+/assets/flags-designs/5604-studentsflagdesign.jpg,our land downunder,Art class 1989,0
+/assets/flags-designs/9679-flag-2015-05-25-wharenui.jpg,Wharenui 01,Kris Sowersby,0
+/assets/flags-designs/Flag-final.jpg,Southern Cross and Silver Fern,Fred Rieben,0
+/assets/flags-designs/19201-unifiedflagdesign.jpg,Unified Nation,Scott Gordon,0
+/assets/flags-designs/12511-gxftktgz.jpg,Koru Unity,Alexander Carroll,0
+/assets/flags-designs/4501-aotearoaensign.jpg,Aotearoa Ensign,Trent Palelei,0
+/assets/flags-designs/10533-nz4colour.jpg,NZ Four colour,Gerad Taylor,0
+/assets/flags-designs/12103-dom-jan-1.jpg,NZ Waka,Dominik Myrcik and Jan Pajak,0
+/assets/flags-designs/11433-2015-flag-3.jpg,Kiwi Ensign Black (a tribute to Canada),Joshua Tabor,0
+/assets/flags-designs/7941-kfhzjjhs.jpg,Double ferns,Tianyu Xu,0
+/assets/flags-designs/7402-flag.jpg,Prosperity and abundance,Daniel Papworth,0
+/assets/flags-designs/5338-juliaflagdesign2.jpg,Southerness,Maria Julia Pia,0
+/assets/flags-designs/8038-nzflag-mj-winder.jpg,Aotearoa Flag,Matt Winder,0
+/assets/flags-designs/14494-simplefern1.jpg,FernZealand variation,Gerad Taylor,0
+/assets/flags-designs/6228-11117861-10153881207986562-52142117-n.jpg,Papatūānuku Version 2,Sam Whinam,0
+/assets/flags-designs/13645-redskyatnightmedium.jpg,Red sky at night (Marine version of (Out of the blue)),Duncan White,0
+/assets/flags-designs/2083-nz-flag.jpg,Mt Taranaki,John Lekner,0
+/assets/flags-designs/8152-nickfargherflagdesign2.jpg,Southern Cross + Land of the Long White Cloud,Nick Fargher,0
+/assets/flags-designs/15831-iconicflag.jpg,Iconic New Zealand Flag ,Mark Hollis,0
+/assets/flags-designs/13879-herzerfernredandblue1x2.jpg,Fern diagonally on red and blue,Richard Herzer,0
+/assets/flags-designs/1411-newflag-2.jpg,Pacific view with fern,Rodney Clark,0
+/assets/flags-designs/17298-nzflagkiwi.jpg,NZ flag,Paolo Obach,0
+/assets/flags-designs/16627-image.jpg,Kiwi nz,Briana busch,0
+/assets/flags-designs/8553-fernzealandflag2.jpg,FernZealand variation,Gerad Taylor,0
+/assets/flags-designs/18090-newnzflag.jpg,New NZ Flag,A Appleyard,0
+/assets/flags-designs/13069-landofthelongwhitecloud.jpg,land of the long white cloud,Theo Ehlen,0
+/assets/flags-designs/8760-lfhctpkd.jpg,New Zanada,Scott Laing,0
+/assets/flags-designs/3624-flag-kiwi-gold.jpg,Traditional Plus ,H J Noel Duckworth,0
+/assets/flags-designs/11470-.jpg,Peace of NewZealand,Teddy Cheung,0
+/assets/flags-designs/11014-newzealandwhenua.jpg,Whenua 2,Steve Cooper,0
+/assets/flags-designs/11281-nzflagredesign.jpg,Legacy,Douglas Fanning,0
+/assets/flags-designs/8793-zeallongwhitecloudvariant.jpg,Zeal (Long White Cloud Version 2),Steven Crundwell,0
+/assets/flags-designs/18691-zeal1-1.jpg,Zeal (Original Colours 2),Steven Crundwell,0
+/assets/flags-designs/6937-southerncross.jpg,Southern Cross,Cameron Smith,0
+/assets/flags-designs/15513-gxdvsqvh.jpg,The Black & Silver. More than a flag: a standard.,John Ansell,0
+/assets/flags-designs/6177-huia.jpg,Huia,David Ross,0
+/assets/flags-designs/12436-img-20150603-0001.jpg,Native NZ,Ashton Prince,0
+/assets/flags-designs/Tui.jpg,Tui,Ceredig Richards,0
+/assets/flags-designs/16998-screenshot2015-06-25at2-04-07pm.jpg,My best try,Kye Kelly,0
+/assets/flags-designs/10218-themeetinghouse2.jpg,Gerad Taylor,Gerad Taylor,0
+/assets/flags-designs/8980-zlandflag6.jpg,Zland Flag variation,Gerad Taylor,0
+/assets/flags-designs/13677-fhkwklxh.jpg,Southern Cross of unity ,Zechariah Taylor,0
+/assets/flags-designs/11539-landandseaflag.jpg,Land and Sea,Russell Garrett,0
+/assets/flags-designs/8440-fernzealandflag4.jpg,FernZealand,Gerad Taylor,0
+/assets/flags-designs/8727-basiasflag.jpg,Basia&#039;s flag,Basia Betkier,0
+/assets/flags-designs/14449-nfvcvmlq.jpg,Clean green NZ in the Pacific Ocean under the long white cloud and Southern Cross,Wendy Armitage,0
+/assets/flags-designs/6208-truecolours.jpg,En Zed,Noel Crombie,0
+/assets/flags-designs/15535-flag88copy.jpg,I fly to the future with essence of the past,adapted fron Waitangi 175 emblem,0
+/assets/flags-designs/12883-newzealandflagblackwhitestarredensignmedium.jpg,NZ STAR RED FLAG marine ensign alternative to NZ STAR FLAG (BLUE ENSIGN),Duncan White,0
+/assets/flags-designs/flag-A-01.jpg,Frond,Ceredig Richards,0
+/assets/flags-designs/8973-flag3.jpg,We Are Kiwi 2,Dave G,0
+/assets/flags-designs/17896-silverfern.jpg,Silver Fern,Yifan Lu,0
+/assets/flags-designs/18925-tukutuki2.jpg,Tūtakitanga N0.2 (Meeting place No.2),Sven Baker,0
+/assets/flags-designs/16594-hokeypokey.jpg,Terrence Tempest Wood,Terrence Tempest Wood,0
+/assets/flags-designs/13225-untitled.jpg,The best flag,Cameron Smith,0
+/assets/flags-designs/8086-darrylwardflag2.jpg,The first country to see the new day (alternative version),Darryl Ward,0
+/assets/flags-designs/4168-flag-kiwi-gold-no-sthn-cross.jpg,Traditional With Kiwi,H J Noel Duckworth,0
+/assets/flags-designs/16405-3810-nz-flag-concept-3.jpg,Commonwealth games 1974 logo on black background,Colin simon,0
+/assets/flags-designs/16168-lqbcqqdw.jpg,Design 2,Zifang Ma,0
+/assets/flags-designs/17499-nz-flag01.jpg,Unfurling Aspirations 01,Christopher John Dudfield,0
+/assets/flags-designs/4582-flag.jpg,Oho Te Wairua - Spirit Awakening,Brent O&#039;Connor,0
+/assets/flags-designs/6823-flagofnewzealand.jpg,Flag of New Zealand,Anton Christopher (inspired by Kyle Lockwood and Mike Archer),0
+/assets/flags-designs/10788-eyeofthingee.jpg,Eye of Thingee,Brent Willis,0
+/assets/flags-designs/18072-uumlvrhr.jpg,Unity Flag,Daniele Alemagna,0
+/assets/flags-designs/8434-fernzealandflag.jpg,FernZealand,Gerad Taylor,0
+/assets/flags-designs/11746-screenshot2015-06-01at2-59-59pm.jpg,ZEDMARK 01,Derek Thomas Martin,0
+/assets/flags-designs/14418-mmwsdvmw.jpg,The White Kiwi Desgin,Riley Uhr,0
+/assets/flags-designs/10128-mfhjlgth.jpg,North and South Ferns 1,Chris Bassett,0
+/assets/flags-designs/8070-superstars.jpg,Starry,Struan Ashby,0
+/assets/flags-designs/11025-newzealandflagturangawaewae2.jpg,Turangawaewae 2,Steve Cooper,0
+/assets/flags-designs/3810-nz-flag-concept-3.jpg,We Still Want To Be In The Commonwealth Games.,Colin Simon,0
+/assets/flags-designs/9748-flag-of-new-zealand-new5.jpg,Crux in the night sky,Sam Pappafloratos,0
+/assets/flags-designs/7465-nickfargherflagdesign.jpg,Land of the Long White Cloud + Southern Cross,Nick Fargher,0
+/assets/flags-designs/9640-fernzealand-variation12.jpg,FernZealand Variation,Gerad Taylor,0
+/assets/flags-designs/6324-dbm-flag-22.jpg,Combination of the existing Maori Flag (designed,Munn,0
+/assets/flags-designs/11508-unionnz2.jpg,Union NZ,Gerad Taylor,0
+/assets/flags-designs/koru-cross-flag-govt-nz-pict.jpg,Koru Cross. At hash / @ # / Create. (self similar),Don S. McDonald,0
+/assets/flags-designs/15546-aotearoa-newzealandflag.jpg,Aotearoa - New Zealand Flag,Mark Hollis,0
+/assets/flags-designs/10725-flyingfern1.jpg,Flying Fern,Gerad Taylor,0
+/assets/flags-designs/13191-flag-blackgold.jpg,Flag :: black + gold,Anna Griffiths,0
+/assets/flags-designs/13531-flag6.jpg,Home in the Pacific,Theo Ehlen,0
+/assets/flags-designs/9358-flag.jpg,Haast Eagle,Luke Pratley,0
+/assets/flags-designs/16897-nzflag4.jpg,We are tahi,Ronan Dyer ,0
+/assets/flags-designs/3787-flag2.jpg,Five minute job,Steve M,0
+/assets/flags-designs/6489-freedomhistoryandequalityv0-2-001.jpg,Freedom History and Equality ,George Reedy,0
+/assets/flags-designs/8790-zeallongwhitecloud.jpg,Zeal (Long White Cloud Version),Steven Crundwell,0
+/assets/flags-designs/7227-crux-state.jpg,Haere whakamua,Thomas Pappafloratos,0
+/assets/flags-designs/12576-tepunga-flagred.jpg,Te Punga,Darryn Flynn,0
+/assets/flags-designs/8989-flag-2015-05-22-ourtarp.jpg,Our United Tarpaulin,Kris Sowersby,0
+/assets/flags-designs/17904-quarterunionjackv1.jpg,Quarter Union Jack (v1),Yifan Lu,0
+/assets/flags-designs/3279-great-view-blue-red-copy.jpg,Great View,James Hadley,0
+/assets/flags-designs/8539-unitednz4.jpg,United NZ flag variation,Gerad Taylor,0
+/assets/flags-designs/6175-koru-flag-svg.jpg,Koru Flag,Hundertwasser ,0
+/assets/flags-designs/7741-flagbluwitegreenstripes.jpg,blue white green stripes,Desmond Brennan,0
+/assets/flags-designs/13651-flag.jpg,New Zealand Flag Design,Katherine Rybinski,0
+/assets/flags-designs/6225-4957-newzealanddraft.jpg,Nature - is the power of New Zealand 2,Ivan Popov,0
+/assets/flags-designs/4677-aotearoaensign4.jpg,Aotearoa Ensign 4,Trent Palelei,0
+/assets/flags-designs/11793-flagdesign.jpg,Bicultural union,Blair Bishop and Anna Harley,0
+/assets/flags-designs/11752-screenshot2015-06-01at3-03-22pm.jpg,ZEDMARK 03,Derek Thomas Martin,0
+/assets/flags-designs/7735-flagblakwitegreensashblustars.jpg,black sash stars,Desmond Brennan,0
+/assets/flags-designs/9675-flag-2015-05-25-tukutuku2.jpg,Tukutuku 02,Kris Sowersby,0
+/assets/flags-designs/12529-whaleridersrainbow.jpg,Rainbow Whale,Brent Willis,0
+/assets/flags-designs/3009-flaggg.jpg,Kotoku,Adapted from Ministry Culture logo  for Treaty  175,0
+/assets/flags-designs/6769-nz-flag-v1.jpg,Our glorious islands,Melissa Wood,0
+/assets/flags-designs/9045-jbfvvbut.jpg,white-green-blue,Drago Nadj,0
+/assets/flags-designs/nz-flag10-r1.jpg,Black Jack - red stars variation,Mike Davison,0
+/assets/flags-designs/8263-option2.jpg,Fern Curl,Matt Holland,0
+/assets/flags-designs/2806-starfern-3.jpg,Starfern 3,Damian Hannah,0
+/assets/flags-designs/14506-simplefern8.jpg,Fern Zealand Variation,Gerad Taylor,0
+/assets/flags-designs/2631-flag.jpg,Grimey,Sam Warburton,0
+/assets/flags-designs/18915-whakakotahi2.jpg,Whakakotahi (Unity) #2,Grant Buist,0
+/assets/flags-designs/8283-flag-2015-05-en-abyme-01.jpg,En Abyme 01,Kris Sowersby,0
+/assets/flags-designs/10597-southern-fern-sharp-blue-red.jpg,SOUTHERN FERN - SHARP BLUE &amp; RED,Carey Tuohy,0
+/assets/flags-designs/18673-blackandsliver1.jpg,Black and silver Jack,Gerad Taylor,0
+/assets/flags-designs/8503-unitednz2.jpg,United NZ flag,Gerad Taylor,0
+/assets/flags-designs/2443-simeons-flag.jpg,New Zealand,Simeon Whyle,0
+/assets/flags-designs/8287-flag-2015-05-en-abyme-03.jpg,En Abyme 03,Kris Sowersby,0
+/assets/flags-designs/14272-2000px-nztricolour.jpg,New Zealand Tricolor,William Shuler,0
+/assets/flags-designs/8290-flag-2015-05-en-abyme-04.jpg,En Abyme 04,Kris Sowersby,0
+/assets/flags-designs/14658-whitestylisedkiwionblackbackground.jpg,White (Stylised) Kiwi on Black Background,Daniel Morgan,0
+/assets/flags-designs/11023-newzealandflagturangawaewae.jpg,Turangawaewae,Steve Cooper,0
+/assets/flags-designs/14002-image.jpg,Unique,NZ herald,0
+/assets/flags-designs/4566-qruxlwcs.jpg,A new beginning,Ash Colebrook,0
+/assets/flags-designs/Untitled-1.jpg,Free Flag,Tharindu Dissanayaka,0
+/assets/flags-designs/14434-nzflag-onesun.jpg,One Sun,Monica Corbett Whattam,0
+/assets/flags-designs/5793-mountainstosea.jpg,Mountains to sea,Miranda,0
+/assets/flags-designs/10530-nztricolour2.jpg,Tricolour variation,Gerad Taylor,0
+/assets/flags-designs/8937-fernzealandflag8.jpg,FernZealand variation,Gerad Taylor,0
+/assets/flags-designs/9703-linkingislands2.jpg,Linking Islands variation,Gerad Taylor,0
+/assets/flags-designs/12636-nzkoruflag.jpg,NZ KORU,Stephen Perry,0
+/assets/flags-designs/10615-nztricolour-4stars2.jpg,NZ tricolour 4 star.,Gerad Taylor,0
+/assets/flags-designs/3021-grey-state-colin-kaldenbach.jpg,Grey State,Colin Kaldenbach,0
+/assets/flags-designs/8742-flag4-0.jpg,koru 4,marcus judge,0
+/assets/flags-designs/11500-newflag.jpg,Whanau Fern,Keith Johnson,0
+/assets/flags-designs/18964-finalflag.jpg,Original New Flag,Mark Hollis,0
+/assets/flags-designs/11425-2015-flag-1.jpg,Black Ensign,Joshua Tabor,0
+/assets/flags-designs/10995-margaretflag3.jpg,STRIPES &amp; STARS,MARGARET COCHRAN,0
+/assets/flags-designs/2000px-Flag-of-New-Zealand-bb.jpg,Keep the stars - remove the Union Jack,It is an edit of the existing flag. ,0
+/assets/flags-designs/17902-greenshiningstar.jpg,Green shining Star,Yifan Lu,0
+/assets/flags-designs/6220-4957-newzealanddraft1.jpg,Nature - is the power of New Zealand,Ivan Popov,0
+/assets/flags-designs/10674-6-2-40kowhai.jpg,6-2-40 Kowhai,Jamie Anderson,0
+/assets/flags-designs/3309-flag.jpg,TBC,Tom Parkes,0
+/assets/flags-designs/14499-simplefern4.jpg,Fernzealand variation,Gerad Taylor,0
+/assets/flags-designs/11037-flag55.jpg,I can fly,Adapted from Waitangi 175 Dept  Culture and Heritage ,0
+/assets/flags-designs/11320-image.jpg,New day   :    Ra Hou,NZ SilverFern and Kyle Lockwood,0
+/assets/flags-designs/7843-combinedflag2.jpg,The one leaf,Cameron Sanders / Dick Frizzel,0
+/assets/flags-designs/13756-flag.jpg,Flag with many colour to represent many people and things,Ryan David Parry,0
+/assets/flags-designs/16347-mwnzflagoption3.jpg,Adding southern cross to John Harrison design,Mark Wotton,0
+/assets/flags-designs/2910-kiwi-flag.jpg,Southern Cross Kiwi,Julius Maskell,0
+/assets/flags-designs/8514-unitednz3.jpg,United NZ flag variation,Gerad Taylor,0
+/assets/flags-designs/14929-fern2.jpg,NZ FERN,Theo Ehlen,0
+/assets/flags-designs/7795-nzzzed.jpg,NZZZZZ Zed,Isla and Tarn Ashby,0
+/assets/flags-designs/16603-myflag5.jpg,NZ Flag,Donald AKINS,0
+/assets/flags-designs/13014-tarikakaflag.jpg,The Tarikaka flag,Walt Hamer,0
+/assets/flags-designs/1459-4-stripe-southern-cross.jpg,Four Stripes Southern Cross,Norris Childs,0
+/assets/flags-designs/14517-simplefern10.jpg,Simple fern,Gerad Taylor,0
+/assets/flags-designs/17508-cfjsrxkd.jpg,Corbett #2,Clifton Corbett,0
+/assets/flags-designs/2745-aotearoa-design-2.jpg,Aotearoa First Sighting (colour variation),Peter G. Taylor,0
+/assets/flags-designs/9841-flag-of-new-zealand-new6.jpg,Pacific Sky,Sam Pappafloratos,0
+/assets/flags-designs/2259-new-constellation-.jpg,The New Constellation,Andrew Coldham-Fussell,0
+/assets/flags-designs/6478-cmwgbrmj.jpg,Blue Koru,Benjamin Moore,0
+/assets/flags-designs/2811-nyankiwi.jpg,Nyan Kiwi,Fosh,0
+/assets/flags-designs/15298-matarikifivestarwithaotearoa.jpg,Matariki five star with Aotearoa,Molly Dreaver Stimpson,0
+/assets/flags-designs/18684-nz-fern-flag.jpg,Aotearoa - based on Kyle Lockwood design,The Wu family,0
+/assets/flags-designs/15084-dmqgcuqd.jpg,Harmony as one ,kaleb Pilcher,0
+/assets/flags-designs/17736-win-20150628-183430.jpg,All Black,Boulcott School,0
+/assets/flags-designs/13966-redskyatnightwhitestarsmedium.jpg,Red sky at night (Marine version of (Out of the blue)) White Stars version,Duncan White,0
+/assets/flags-designs/16831-0001.jpg,Pacific&#039;s Triple Star 2,Mark Mitchell,0
+/assets/flags-designs/17908-quarterunionjackv2.jpg,Quarter Union Jack (v2),Yifan Lu,0
+/assets/flags-designs/2220-nz-flag-by-t-ricketts.jpg,This land is our land,tony ricketts,0
+/assets/flags-designs/10234-s4300071.jpg,The Ultimate Flag,Julian Hill,0
+/assets/flags-designs/13188-flag-bluegold.jpg,Flag :: blue + gold,Anna Griffiths,0
+/assets/flags-designs/15858-interwoven.jpg,NZ Interwoven,John Hatton,0
+/assets/flags-designs/13800-nzflag3.jpg,One New Zealand,Connor Hale,0
+/assets/flags-designs/7642-paradiseflag.jpg,Paradise,Caroline,0
+/assets/flags-designs/11020-newzealandflagunity2.jpg,Unity 2,Steve Cooper,0
+/assets/flags-designs/5419-aotearoablue.jpg,Aotearoa Blue,Renee Jaine,0
+/assets/flags-designs/9187-underthesoutherncross.jpg,Under the Southern Cross,Tony Simons,0
+/assets/flags-designs/7200-image.jpg,The New Zealand Flag 2016,Hayden Yeap,0
+/assets/flags-designs/9654-flag-2015-05-25-george2.jpg,Arrangement 02,Kris Sowersby,0
+/assets/flags-designs/10138-nzunionabstract.jpg,Union NZ,Gerad Taylor,0
+/assets/flags-designs/13639-goodasgoldmedium.jpg,Good as gold,Duncan White,0
+/assets/flags-designs/11100-flag.jpg,The Power of Black,Terry Jones and Nick Mcfall,0
+/assets/flags-designs/7051-flagofnewzealand-withkiwis.jpg,Flag of New Zealand,Anton Christopher (inspired by Kyle Lockwood and Alexandre Santos),0
+/assets/flags-designs/3991-newtraditions.jpg,New traditions,William Powell,0
+/assets/flags-designs/8314-flag-2015-05-fern-02.jpg,Simplified Fern 02,Kris Sowersby,0
+/assets/flags-designs/18694-zeal3-0.jpg,Zeal (green version 1),Steven Crundwell,0
+/assets/flags-designs/9075-flag.jpg,Simple design,Diego MacArthur,0
+/assets/flags-designs/16372-silverfern.jpg,Silver Fern Design,Mark Hollis,0
+/assets/flags-designs/12477-kiwijack.jpg,Kiwi Jack,Pete Coleman,0
+/assets/flags-designs/5827-flaggreen155.jpg,Green Koru on Black,Adam Mills,0
+/assets/flags-designs/7935-srfdlgss.jpg,Being proud Kiwi with dignity,Tianyu Xu,0
+/assets/flags-designs/19105-dawdesign2015001.jpg,Daw Design 2015,Brian Daw,0
+/assets/flags-designs/9052-hrpzxldn.jpg,Earthy Stars,Riley Uhr,0
+/assets/flags-designs/15519-james-flagcopy.jpg,Aotearoa,james harcourt coloured and original Hiraina Marsden,0
+/assets/flags-designs/13074-zkffjucp.jpg,Deltan(NZ) Tricolour,William Shuler,0
+/assets/flags-designs/10593-nztricolour-fivestars3.jpg,Five star NZ 4 colour vertical,Gerad Taylor,0
+/assets/flags-designs/9291-finalfinalfinal.jpg,New Zealand&#039;s flag,Clayton Morgan,0
+/assets/flags-designs/10252-fernzealandflag13.jpg,FernZealand Variation,Gerad Taylor,0
+/assets/flags-designs/9678-flag-2015-05-25-tukutuku4.jpg,Tukutuku 04,Kris Sowersby,0
+/assets/flags-designs/6987-cuvuscgn.jpg,Kiwi Koru,Chris Bassett,0
+/assets/flags-designs/11266-voyager.jpg,Voyager,Austen Nixon,0
+/assets/flags-designs/17890-aotearoatri-colourblue.jpg,Aotearoa Tri-Colour,Yifan Lu,0
+/assets/flags-designs/7140-flag.jpg,My New Zealand,G J Miller,0
+/assets/flags-designs/16828-0001.jpg,Pacific&#039;s Triple Star 1,Mark Mitchell,0
+/assets/flags-designs/13279-flag9nov.jpg,Our integral future,M. John Overton,0
+/assets/flags-designs/17899-redshiningstar.jpg,Red shining star,Yifan Lu,0
+/assets/flags-designs/17919-fernand16regions.jpg,Fern and 16 regions,Yifan Lu,0
+/assets/flags-designs/3106-image.jpg,Dancing stars,Tim Adams,0
+/assets/flags-designs/10546-nz4colour-2.jpg,NZ 4 colour_variation,Gerad Taylor,0
+/assets/flags-designs/8461-korucross.jpg,Koru cross,Gerad Taylor,0
+/assets/flags-designs/10227-themeetinghouse3.jpg,Gerad Taylor,Gerad Taylor,0
+/assets/flags-designs/16854-whitestylisedkiwionblackbackground.jpg,White (Stylised) Kiwi on Black Background,Daniel Morgan,0
+/assets/flags-designs/3808-zeal-simplified.jpg,Zeal (Simplified),Steven Crundwell,0
+/assets/flags-designs/17923-wearenewzealanders.jpg,We are New Zealanders!,Yifan Lu,0
+/assets/flags-designs/11094-gonzobigjpg.jpg,Kiwiana,Will de Cleene,0
+/assets/flags-designs/10657-flag.jpg,Five Koru,Worapong Lertpisitkul,0
+/assets/flags-designs/2793-starfern.jpg,Starfern,Damian Hannah,0
+/assets/flags-designs/14130-riporipo-red.jpg,Riporipo (Swirl) - red and black variation,Grant Buist,0
+/assets/flags-designs/16519-mynewzealandflag.jpg,the one and only,Josh rowan,0
+/assets/flags-designs/8493-unitednz.jpg,UnitedNZ,Gerad Taylor,0
+/assets/flags-designs/10480-flag1.jpg,N.Z. Kiwi,Fraser McDougall,0
+/assets/flags-designs/15532-stephennzflagdesign.jpg,First view of Aotearoa New Zealand,Stephen Christie,0
+/assets/flags-designs/9658-flag-2015-05-25-george4.jpg,Arrangement 04,Kris Sowersby,0
+/assets/flags-designs/6778-capture2.jpg,Southern Cross &amp; Silver Fern,Kyle Lockwood,0
+/assets/flags-designs/14452-dmhrclku.jpg,NZ (Red x Blue),Lilian Jones,0
+/assets/flags-designs/NewZealand.jpg,Simply New Zealand,Jonathan Kennedy,0
+/assets/flags-designs/9663-flag-2015-05-25-hotere2.jpg,Papatūānuku &amp; Ranginui 02,Kris Sowersby,0
+/assets/flags-designs/14292-hhzkbmnh.jpg,Land of the long white cloud under the night sky,Wendy Armitage,0
+/assets/flags-designs/17914-kiwisoutherncross.jpg,Kiwi Southern Cross,Yifan Lu,0
+/assets/flags-designs/18649-flag.jpg,Land and Sky,Carter Prendergast,0
+/assets/flags-designs/16944-nzflagalt3.jpg,Souther Cross with Tino Rangatiratanga,Adapted from existing flag and Tino Rangatiratanga,0
+/assets/flags-designs/15250-ourlandourpeople.jpg,Our land our people,L. Bennett,0
+/assets/flags-designs/17982-matariki.jpg,Silvern Fern Matariki,Kyle Lockwood,0
+/assets/flags-designs/18636-koru.jpg,Koru (v2),Yifan Lu,0
+/assets/flags-designs/3807-zeal.jpg,Zeal,Steven Crundwell,0
+/assets/flags-designs/11578-publication1.jpg,strips of New Zealand ,Will Gulliver + Zachary Taylor,0
+/assets/flags-designs/TwoIslands.jpg,Rua Motu,June Sparrow,0
+/assets/flags-designs/14334-flagwpa-2.jpg,NZ standing proud under the long white cloud and southern cross,Wendy Armitage,0
+/assets/flags-designs/8302-flag-2015-05-en-abyme-07.jpg,En Abyme 07,Kris Sowersby,0
+/assets/flags-designs/6906-newview.jpg,New View,L. Bennett,0
+/assets/flags-designs/14898-flagaplusb.jpg,A Plus B,Mark Cleverley,0
+/assets/flags-designs/6477-grqbswbh.jpg,Koru Blue,Benjamin Moore,0
+/assets/flags-designs/13978-flag3.jpg,Hint of Fern Blue,Bruce Ferguson,0
+/assets/flags-designs/8074-darrylwardflag1.jpg,The first country to see the new day,Darryl Ward,0
+/assets/flags-designs/8292-flag-2015-05-en-abyme-05.jpg,En Abyme 05,Kris Sowersby,0
+/assets/flags-designs/5938-flag15.jpg,National Flag of Aotearoa New Zealand,J C Jones,0
+/assets/flags-designs/18013-nzflagat.jpg,OURLAND,ANDREW TAM,0
+/assets/flags-designs/11428-2015-flag-2.jpg,Simple Black Kiwi Ensign,Joshua Tabor,0
+/assets/flags-designs/4150-nz-flag-submission.jpg,Kiwi Rondel,New Zealand Defence Force (NZDF),0
+/assets/flags-designs/6552-emeliaflag1.jpg,southern sea,Emelia Masari,0
+/assets/flags-designs/15118-nzflag04-mj-winder.jpg,Koru and Southern Cross,Matt Winder,0
+/assets/flags-designs/11017-newzealandflagunity1.jpg,Unity,Steve Cooper,0
+/assets/flags-designs/10378-taha-o-te-rangi-orangi-4.jpg,Taha o te rangi - ōrangi (Edge of the Heavens - blue variation) #3,Grant Buist,0
+/assets/flags-designs/2355-flag-design-troy-mihaka.jpg,Islands of Peace,Troy Mihaka,0
+/assets/flags-designs/16336-nzflag-b-jpolkinghorne.jpg,&#039;Zee&#039; Land,Justine Polkinghorne,0
+/assets/flags-designs/flagnc.jpg,Koru Cross,Nigel Cheung,0
+/assets/flags-designs/8649-brownflag.jpg,Flagbot,Chris Brown,0
+/assets/flags-designs/3283-great-view-traditional-colours-copy.jpg,Great View (Traditional Colours),James Hadley,0
+/assets/flags-designs/12633-dom-jan-3.jpg,NZ future,Dominik Myrcik and Jan Pajak,0
+/assets/flags-designs/15283-our-southern-swanny.jpg,Our Southern Swanny,Dan Newman,0
+/assets/flags-designs/8260-nzflagblue-blacksilverfern.jpg,Blue-black silver fern,Greg Keeble,0
+/assets/flags-designs/7614-flagofnewzealandtricolourbigfern.jpg,Flag of New Zealand,Anton Christopher (inspired by Kyle Lockwood and Mike Archer),0
+/assets/flags-designs/17277-silverfernnight.jpg,Silver Fern Night Sky,Dick Firzzell,0
+/assets/flags-designs/9409-turangawaewaeflag.jpg,Tūrangawaewae,Mike Perry,0
+/assets/flags-designs/6297-xdwhrtxx.jpg,Aotearoa,Unknown,0
+/assets/flags-designs/6310-nzflagresize.jpg,United Tribes flag replaces Union Jack,Chris Laurenson,0
+/assets/flags-designs/8781-nzflag02-mj-winder.jpg,Long White Cloud,Matt Winder,0
+/assets/flags-designs/9660-flag-2015-05-25-hotere.jpg,Papatūānuku &amp; Ranginui 01,Kris Sowersby,0
+/assets/flags-designs/11211-tkzrrmmc.jpg,NZ land and sea,James Lathan,0
+/assets/flags-designs/9169-banderadenuevazelanda.jpg,The flag of our land,Claudio Manganelli,0
+/assets/flags-designs/17269-bfjjrslu.jpg,The Kiwi,Ian Baughen,0
+/assets/flags-designs/12411-vzbgxujp.jpg,Variations on a theme # 1,Garth Henry,0
+/assets/flags-designs/10936-sunandstars.jpg,Sun and Stars,Pete Young,0
+/assets/flags-designs/16333-fitzflag.jpg,The Fitz Bunny Flag of Awesome,Grant Buist,0
+/assets/flags-designs/8896-fernzealandflag7.jpg,Fern Zealand Variation,Gerad Taylor,0
+/assets/flags-designs/4846-nannasjawbone.jpg,Creation story - Maui&#039;s grandmother&#039;s jawbone,Matt Lane,0
+/assets/flags-designs/flag7.jpg,Long White Koru,Christopher Berg,0
+/assets/flags-designs/9745-southernsunrise.jpg,Southern Sunrise,Gerad Taylor,0
+/assets/flags-designs/12030-southern-fern-curved-blue-green.jpg,SOUTHERN FERN - CURVED BLUE &amp; GREEN,2E Design,0
+/assets/flags-designs/14508-simplefern9.jpg,fern Zealand Variation,Gerad Taylor,0
+/assets/flags-designs/8590-unitednz5.jpg,United NZ flag variation,Gerad Taylor,0
+/assets/flags-designs/16348-mwnzflagoption4.jpg,Adding to John Harrison design,Mark Wotton,0
+/assets/flags-designs/17503-flag-1.jpg,Southern sky,Carl Howarth,0
+/assets/flags-designs/11748-screenshot2015-06-01at1-19-37pm.jpg,land,Josephine jelicich,0
+/assets/flags-designs/11751-screenshot2015-06-01at3-03-36pm.jpg,ZEDMARK 02,Derek Thomas Martin,0
+/assets/flags-designs/12372-dom-jan-2.jpg,&quot;NZ Nourisher&quot;,Dominik Myrcik and Jan Pajak,0
+/assets/flags-designs/7660-flagofnewzealand-blackstripeonmast.jpg,Flag of New Zealand,Anton Christopher (inspired by Kyle Lockwood),0
+/assets/flags-designs/10156-zlandflag7.jpg,Zland Variation,Gerad Taylor,0
+/assets/flags-designs/7650-mattflag-black.jpg,Tukutuku Southern Cross (on black),Matthew,0
+/assets/flags-designs/3124-southernkoru.jpg,Southern Koru,Isobel Te Aho-White,0
+/assets/flags-designs/15850-bestnewflag1.jpg,Improved Aotearoa - New Zealand Flag,Mark Hollis,0
+/assets/flags-designs/16003-tomflagdesign.jpg, Tom flag design,Tomos Christie,0
+/assets/flags-designs/10129-ribbonjack.jpg,Ribbon Jack,Gerad Taylor,0
+/assets/flags-designs/15229-wingoftui-teal.jpg,Wing of Tui,Matthew Blair,0
+/assets/flags-designs/11083-proudflag.jpg,Black Blood,edward chan,0
+/assets/flags-designs/1710-good-nz-flag.jpg,Te haki whero,D&amp;D NZpol thread,0
+/assets/flags-designs/9643-zland-variation.jpg,Variation on the Zland flag design,Gerad Taylor,0
+/assets/flags-designs/19503-newzealandoutlineflag.jpg,New Zealand Overview Flag,Mark Hollis,0
+/assets/flags-designs/15843-nzflag-a-01.jpg,‘New’ New Zealand (blue),Justine Polkinghorne,0
+/assets/flags-designs/10575-nztricolour-fourstars.jpg,Tricolour 5 star,Gerad Taylor,0
+/assets/flags-designs/9669-flag-2015-05-25-hotere3.jpg,All 01,Kris Sowersby,0
+/assets/flags-designs/17506-ngnkzqxr.jpg,Corbett #1,Clifton Corbett,0
+/assets/flags-designs/9267-image.jpg,Tinorangatira tanga and Southern Cross,Janet Campbell,0
+/assets/flags-designs/14064-nzblack.jpg,Silver fern with Koru design strip,Matthew Blair,0
+/assets/flags-designs/12886-newzealandnzstarflagsubmitsthcrosssmall.jpg,NZ STAR ENSIGN (1999) Southern Cross addition ,Duncan White,0
+/assets/flags-designs/5140-screenshot2015-05-16at1-36-30pm.jpg,He iwi tahi tātou,Kallum Best,0
+/assets/flags-designs/12774-crossfern.jpg,Southern Cross &amp; Silver Fern Flag ,John Hepburn,0
+/assets/flags-designs/11013-sunstar.jpg,Sun and Stars (sun with rays),Pete Young,0
+/assets/flags-designs/10131-ribbonjack2.jpg,Riibon Jack,Gerad Taylor,0
+/assets/flags-designs/10654-hqcwnkjt.jpg,nzo,Michael Dudding,0
+/assets/flags-designs/9652-flag-2015-05-25-george.jpg,Arrangement 01,Kris Sowersby,0
+/assets/flags-designs/8431-fernzealandflag2.jpg,FernZealand,Gerad Taylor,0
+/assets/flags-designs/15067-aotearoanewzealandsflag.jpg,Aotearoa New Zealand&#039;s Flag,Mara Neely,0
+/assets/flags-designs/13534-hundertwasserremix.jpg,Hundertwasser Remix,Caroline Glass,0
+/assets/flags-designs/2040-photoscan.jpg,flag of new zealand,Will Gulliver,0
+/assets/flags-designs/19033-flag-truecolours.jpg,True colours,Anthony Ross,0
+/assets/flags-designs/9673-flag-2015-05-25-tukutuku.jpg,Tukutuku 01,Kris Sowersby,0
+/assets/flags-designs/13107-flag.jpg,A New Union,Rosie Brown,0
+/assets/flags-designs/17319-koruinthenewzealandlandscape.jpg,Koru in the South Pacific,Winston Gardner,0
+/assets/flags-designs/14100-flagpng.jpg,Elements in Common,D Petersen,0
+/assets/flags-designs/18700-zeal3-1.jpg,Zeal (green version 2),Steven Crundwell,0
+/assets/flags-designs/5814-sxvlstcn.jpg,The Blue Fern,Angus Ross,0
+/assets/flags-designs/12483-kiwias.jpg,Kiwi As,Pete Coleman,0
+/assets/flags-designs/6963-taha-o-te-rangi-orangi.jpg,Taha o te rangi - ōrangi (Edge of the Heavens - blue variation),Grant Buist,0
+/assets/flags-designs/10627-fernzealandflag-horizontal.jpg,FernZealand Flying frond,Gerad Taylor,0
+/assets/flags-designs/5820-flag.jpg,Black and white Koru,Adam Mills,0
+/assets/flags-designs/12640-blackbloodii.jpg,black blood 2,edward chan,0
+/assets/flags-designs/14710-img-4884.jpg,Silver fern &amp; SouthernCross doodle,lester chin,0
+/assets/flags-designs/8214-img-3358.jpg,New Zealand flag,Dr Robert Lau,0
+/assets/flags-designs/19492-cwggtvuk.jpg,The national flag of New Zealand,B.L.J.Treadwell,0
+/assets/flags-designs/15915-nzflag-petergalvin.jpg,Koru-fern tricolour,Peter Galvin,0
+/assets/flags-designs/8311-flag-2015-05-fern-01.jpg,Simplified Fern 01,Kris Sowersby,0
+/assets/flags-designs/8437-fernzealandflag3.jpg,FernZealand,Gerad Taylor,0
+/assets/flags-designs/11008-nzflag2.jpg,NZ Flag,gus watt,0
+/assets/flags-designs/6807-landofthelongwhitecloud.jpg,Land of the Long White Cloud,Isaac,0
+/assets/flags-designs/4686-psnzflag2.jpg,Fern and Crux,Peter Seay (based on designs by Kyle Lockwood and Cameron Sanders),0
+/assets/flags-designs/9672-flag-2015-05-25-hotere4.jpg,All 02,Kris Sowersby,0
+/assets/flags-designs/15589-mwnzflag.jpg,Southern cross over land of long white cloud surrounded,sea by Mark Wotton,0
+/assets/flags-designs/7252-mwnnwcrk.jpg,Fern Flag of NZ,Tianyu Xu,0
+/assets/flags-designs/10497-nz-altenative-flag-by-daniele-alemagna-l.jpg,New Zealand Cross Flag,Daniele Alemagna,0
+/assets/flags-designs/14763-pure-new-zealand.jpg,Pure New Zealand,Charlie Bleakley,0
+/assets/flags-designs/13351-14kylelockwoodsilverfernfl.jpg,Silver Fern Flag - Black White &amp; Blue,Kyle Lockwood,0
+/assets/flags-designs/13194-flag-blackwhite.jpg,Flag :: black + white,Anna Griffiths,0
+/assets/flags-designs/11430-koruwithwhatweare.jpg,New life without forgeting history.,Sergiy Vorobey,0
+/assets/flags-designs/1579-contemporarykoru.jpg,Contemporary Koru,Karl Thiart,0
+/assets/flags-designs/10374-taha-o-te-rangi-4.jpg,Taha o te rangi (Edge of the Heavens) #3,Grant Buist,0
+/assets/flags-designs/5955-blackblueflag-largerstars.jpg,Crux on Waitangi Day,Callum Katene,0
+/assets/flags-designs/3192-image.jpg,Silver Fern Sports Flag,Kyle Lockwood,0
+/assets/flags-designs/14419-bvtjxdkq.jpg,Southern cross Canton,Riley Uhr,0
+/assets/flags-designs/2017-aotearoa-1.jpg,Aotearoa First Sighting,Peter G. Taylor,0
+/assets/flags-designs/13656-outofthebluemedium.jpg,Out of the blue,Duncan White,0
+/assets/flags-designs/17746-dnjcxxdh.jpg,NZflag-nkoru,Matthew Parsons,0
+/assets/flags-designs/15529-stephennzflagdesign2.jpg,First view of Aotearoa New Zealand,Stephen Christie,0
+/assets/flags-designs/12469-voyager2.jpg,Voyager (2),Austen Nixon,0
+/assets/flags-designs/14040-riporipo.jpg,Riporipo (Swirl),Grant Buist,0
+/assets/flags-designs/Frizzell-flag-red-white-blk-sky-.jpg,MANAWA (the peoples choice),Otis Frizzell,0
+/assets/flags-designs/10731-flyingfern4.jpg,Flying Fern,Gerad Taylor,0
+/assets/flags-designs/17922-pearlwhitefern.jpg,Pearl White Fern,Yifan Lu,0
+/assets/flags-designs/12183-dhqnrznn.jpg,Long White Cloud,Michael Carter,0
+/assets/flags-designs/8706-onward.jpg,Onward,Thomas Pappafloratos,0
+/assets/flags-designs/9124-image.jpg,The Shaded Koru Fern,Hayden Yeap,0
+/assets/flags-designs/17742-flag4.jpg,SouthernCrossSilverFern,Anthony Ross,0
+/assets/flags-designs/6232-nz-flag-white-fern-on-black4.jpg,Ansell/Wang Fern on Black,John Ansell/Kenneth Wang,0
+/assets/flags-designs/4675-aotearoaensign3.jpg,Aotearoa Ensign 3,Trent Palelei,0
+/assets/flags-designs/2707-aotearoa-design-3.jpg,Aotearoa Traditional,Peter G. Taylor,0
+/assets/flags-designs/13975-flag2.jpg,Hint of Fern Black,Bruce Ferguson,0
+/assets/flags-designs/13972-home.jpg,Home,Theo Ehlen,0
+/assets/flags-designs/12532-whaleriderskoru.jpg,Koru Whale,Brent Willis,0
+/assets/flags-designs/14451-nztri-colour-rightvariation.jpg,Tri colour variation,Gerad Taylor,0
+/assets/flags-designs/10527-nztri-colour.jpg,NZ Tri-colour,Gerad Taylor,0
+/assets/flags-designs/2524-kanter+southern-cross.jpg,Kanter design plus Southern Cross,variation of Silver Fern black and white by Alofi Kanter,0
+/assets/flags-designs/17536-flagnz.jpg,Simplifying our Future,Susana Aletta Wassong,0
+/assets/flags-designs/12480-kiwisoutherncross.jpg,Kiwi Southern Cross,Peter Coleman,0
+/assets/flags-designs/17028-ullcstvh.jpg,Kiwi Flag with Royalty - 1,Tianyu Xu,0
+/assets/flags-designs/13581-flagjpeg.jpg,Silver Fern RWB,Anthony Ross,0
+/assets/flags-designs/9849-nz-flag.jpg,Cultural Unity,Michael Trilford,0
+/assets/flags-designs/2862-nzflag-small-stars.jpg,Fern and Small Southern Cross,Inspired by Kyle Lockwood,0
+/assets/flags-designs/13876-herzerferngreenandblue1x2.jpg,Fern diagonally on green and blue ,Richard Herzer,0
+/assets/flags-designs/10614-nztricolour-4stars.jpg,Tricolour 4 star variation,Gerad Taylor,0
+/assets/flags-designs/5320-whitekiwiflagwithgreen.jpg,Kiwi Dream,Caroline,0
+/assets/flags-designs/5125-znmwfudx.jpg,Papatūānuku,Sam Whinam,0
+/assets/flags-designs/18591-nz-scene-3here.jpg,Here,Timon Maxey,0
+/assets/flags-designs/13338-nzbackground.jpg,Kai Pai,edward chan,0
+/assets/flags-designs/17910-aotearoasoutherncross.jpg,Aotearoa Southern Cross,Yifan Lu,0
+/assets/flags-designs/8296-flag-2015-05-en-abyme-06.jpg,En Abyme 06,Kris Sowersby,0
+/assets/flags-designs/14331-flagwpa-1.jpg,Under the Southern Cross,Wendy Armitage,0
+/assets/flags-designs/5781-nzflag.jpg,Idea 01,Nick Mclean,0
+/assets/flags-designs/3489-flagbest.jpg,Harmony,Paul Douglas,0
+/assets/flags-designs/16615-flag-nz.jpg,Te Ao Mārama,Max O&#039;Brien,0
+/assets/flags-designs/13089-nzhighres.jpg,Elements,Christopher Peacocke,0
+/assets/flags-designs/8634-zealandflag2.jpg,New ZLand Flag,Gerad Taylor,0
+/assets/flags-designs/10303-01kylelockwoodsilverfernflagblue.jpg,Silver Fern Flag – Kyle Lockwood’s &#039;Blue Design&#039;,Kyle Lockwood,0
+/assets/flags-designs/1477-11y2yy+dkwl.-sx300-.jpg,Enlightment.,Grant Beban,0
+/assets/flags-designs/8959-zlandflag5.jpg,Zland flag variation,Gerad Taylor,0
+/assets/flags-designs/13092-nzhighresextend.jpg,Elements,Christopher Peacocke,0
+/assets/flags-designs/3204-flag-patch-left-side-flipped.jpg,SC&amp;M,Ash Colebrook,0
+/assets/flags-designs/3522-nz-flag-design-3.jpg,Flag of Aotearoa/New Zealand,Lee Thomas,0
+/assets/flags-designs/14505-simplefern7.jpg,Fern Zealand Variation,Gerad Taylor,0
+/assets/flags-designs/14278-standardnzflag.jpg,New Zealand Standard,William Shuler,0
+/assets/flags-designs/8329-nz-flag-v2.jpg,Our island nation,Melissa Wood,0
+/assets/flags-designs/14308-standardnzflag.jpg,NZ Standard,William Shuler,0
+/assets/flags-designs/4642-southern-cross-framed-by-koru.jpg,Southern Cross framed,Koru by Tom Pledger,0
+/assets/flags-designs/14539-nz-flag-03.jpg,make it oficial,Craig Johnson,0
+/assets/flags-designs/12892-flag2710x358.jpg,TotalNZ,Theo Ehlen,0
+/assets/flags-designs/4674-aotearoaensign2.jpg,Aotearoa Ensign,Trent Palelei,0
+/assets/flags-designs/17362-nz-620x310.jpg,Past and future,Denise Fung,0
+/assets/flags-designs/8472-korucross2.jpg,Koru cross,Gerad Taylor,0
+/assets/flags-designs/10726-flyingfern2.jpg,Flying Fern,Gerad Taylor,0
+/assets/flags-designs/15070-qrtudsxm.jpg,Flag of Aotearoa New Zealand,Daniel Neely,0
+/assets/flags-designs/16401-image.jpg,Our Flag,Rachael Lockhart,0
+/assets/flags-designs/10018-img-02372015-03-0302-23-26utc.jpg,New  New Zealand Flag,Alan McLoughlin,0
+/assets/flags-designs/10729-flyingfern3.jpg,Flying Fern,Gerad Taylor,0
+/assets/flags-designs/13180-nzhighresextend2.jpg,Elements 3,Christopher Peacocke,0
+/assets/flags-designs/11643-tuglubxc.jpg,North &amp; South Ferns 3,Chris Bassett,0
+/assets/flags-designs/10897-pi-rangorango.jpg,Pī Rangorango (The Bee Who Buzzes),Grant Buist,0
+/assets/flags-designs/17893-aotearoatri-colourlightblue.jpg,Aotearoa Tri-Colour (light blue),Yifan Lu,0
+/assets/flags-designs/12531-hfquulln.jpg,Colour NZ,Garth Henry,0
+/assets/flags-designs/image2.jpg,Southern Cross,Bruce Melrose,0
+/assets/flags-designs/5806-newzealandflag1jpegsmall.jpg,NZ STAR,Duncan White,0
+/assets/flags-designs/7014-taha-o-te-rangi-orangi-2.jpg,Taha o te rangi - ōrangi (Edge of the Heavens - blue variation) #2,Grant Buist,0
+/assets/flags-designs/10606-southern-fern-curved-blue-red.jpg,SOUTHERN FERN - CURVED BLUE &amp; RED,Carey Tuohy,0
+/assets/flags-designs/15844-nzflag-a-02-jpolkinghorne.jpg,‘New’ New Zealand (black),Justine Polkinghorne,0
+/assets/flags-designs/7179-nzdesign.jpg,Heart of Gold,Rachel Armstrong,0
+/assets/flags-designs/14496-simplefern3.jpg,FernZealand variation,Gerad Taylor,0
+/assets/flags-designs/11509-unionnz1.jpg,Union NZ,Gerad Taylor,0
+/assets/flags-designs/1714-dbm-flag-2-2.jpg,Brett&#039;s design,Brett McKay,0
+/assets/flags-designs/16956-ao-te-ta.jpg,Tino Rangatiratanga Aotearoa,Jarred Bishop,0
+/assets/flags-designs/12036-southern-fern-sharp-blue-green.jpg,SOUTHERN FERN - SHARP BLUE &amp; GREEN,Carey Tuohy,0
+/assets/flags-designs/3219-new-flag-design-1.jpg,Newfie,Ash Colebrook,0
+/assets/flags-designs/5397-trcqrtgq.jpg,Aotearoa into the future,Astrid van Meeuwen-Dijkgraaf,0
+/assets/flags-designs/18747-jtbcrkug.jpg,Southern Cross and Koru,Daniel McGaughran,0
+/assets/flags-designs/2797-starfern-2.jpg,Starfern 2,Damian Hannah,0
+/assets/flags-designs/9657-flag-2015-05-25-george3.jpg,Arrangement 03,Kris Sowersby,0
+/assets/flags-designs/9702-linkingislands3.jpg,Linking Islands,Gerad Taylor,0
+/assets/flags-designs/11247-whitekiwiflag.jpg,Kiwi Blue,Caroline,0
+/assets/flags-designs/10647-fernzealandflag-horizontal3.jpg,FernZealand horizontal variant,Gerad Taylor,0
+/assets/flags-designs/18927-flag-newpage.jpg,Land and Sea,Raymond Pearce,0
+/assets/flags-designs/1405-newflag-1.jpg,Pacific view with Southern Cross,Rodney Clark,0
+/assets/flags-designs/18669-blackandsliver2.jpg,Black and silver country of contrast,Gerad Taylor,0
+/assets/flags-designs/16599-ahu-whakamua-16.jpg,Ahu Whakamua,Aaron Baxendine,0
+/assets/flags-designs/10584-nztricolour-fivestars2.jpg,Tric-colour five star variation,Gerad Taylor,0
+/assets/flags-designs/9850-mt-taranki.jpg,Mount Taranaki,Steve Almond,0
+/assets/flags-designs/4711-nzstars.jpg,nz stars,Marcus Judge,0
+/assets/flags-designs/5923-nznewflagidea.jpg,waves,Natasha Rata Leniston Bagnall,0
+/assets/flags-designs/14043-ctpbbnvj.jpg,Land of the Long White Cloud,Donna Cross,0
+/assets/flags-designs/11028-newzealandflagthreeislandsunderonesky.jpg,3 islands under one sky,Steve Cooper,0
+/assets/flags-designs/13605-dvzqvkpq.jpg,Black and Gold flag,Reuben Edwards,0
+/assets/flags-designs/10141-nzunionabstract2.jpg,Union NZ,Gerad Taylor,0
+/assets/flags-designs/10222-nfutwtmj.jpg,Green Aotearoa,Yahu Shua Lives,0
+/assets/flags-designs/19479-mauiandraflag.jpg,Maui and Ra flag,Pete Young,0
+/assets/flags-designs/15912-nzscenicflag.jpg,NZ Scenic Flag,Mark Hollis,0
+/assets/flags-designs/9786-tohatoha.jpg,Tohatoha (sharing),Grant Buist,0
+/assets/flags-designs/17898-koru.jpg,Koru (v1),Yifan Lu,0
+/assets/flags-designs/2413-nz-flag-dimensions.jpg,2015 New Zealand Ensign,Jason McGregor,0
+/assets/flags-designs/13875-herzerfernblueandgreen1x2.jpg,Fern diagonally on blue and green,Richard Herzer,0
+/assets/flags-designs/2553-southerncrossjpg.jpg,Southern Cross,James Squires,0
+/assets/flags-designs/17925-flag1.jpg,Heritage,John Hamilton,0
+/assets/flags-designs/3612-south-pacific-star.jpg,South Pacific Star,Edwin Hermann,0
+/assets/flags-designs/17905-greenquarterunionjack.jpg,Green quarter Union Jack,Yifan Lu,0
+/assets/flags-designs/8887-fernzealandflag6.jpg,FernZealand variation,Gerad Taylor,0
+/assets/flags-designs/Untitled-1-copy.jpg,Southern Cross,Martin Hibma,0
+/assets/flags-designs/18631-fernzealandflag-splithorizontal-nostars.jpg,Split Horizontal fern variation,Gerad Taylor,0
+/assets/flags-designs/17913-southerncross.jpg,Southern Cross,Yifan Lu,0
+/assets/flags-designs/8284-flag-2015-05-en-abyme-02.jpg,En Abyme 02,Kris Sowersby,0
+/assets/flags-designs/8196-lardonia.jpg,New Zealand Cross,Stefan Suk,0
+/assets/flags-designs/12144-nzflagconcept.jpg,tumanako hoki te heke mai,Nigel Christensen,0
+/assets/flags-designs/9681-flag-2015-05-25-wharenui2.jpg,Wharenui 02,Kris Sowersby,0
+/assets/flags-designs/17728-newzealandflag1.jpg,New Zealand her greatness,Colin Moisson,0
+/assets/flags-designs/10644-fernzealandflag-splithorizontal.jpg,FernZealand split horizontal,Gerad Taylor,0
+/assets/flags-designs/18912-te-matau-a-maui.jpg,Whakakotahi (Unity) #1,Grant Buist,0
+/assets/flags-designs/10617-nztricolour-4stars3.jpg,NZ Tricolour 4 star.,Gerad Taylor,0
+/assets/flags-designs/16338-nzflag-b-02-jpolkinghorne-02.jpg,&#039;Zee&#039; Land #2,Justine Polkinghorne,0
+/assets/flags-designs/6957-taha-o-te-rangi.jpg,Taha o te rangi (Edge of the Heavens),Grant Buist,0
+/assets/flags-designs/8637-zealandflag1.jpg,New Zland Flag,Gerad Taylor,0
+/assets/flags-designs/13873-nzflag.jpg,Stars on Blue,Wayne Kelsall,0
+/assets/flags-designs/11640-fbdssprl.jpg,North &amp; South Ferns 4,Chris Bassett,0

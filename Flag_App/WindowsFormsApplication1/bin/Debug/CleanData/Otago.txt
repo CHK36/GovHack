@@ -1,0 +1,75 @@
+"","Artists","Submissions"
+"16","Christopher Green",7
+"6","Sarah Reinhardt",4
+"7","Melissa Hinves",4
+"22","Yani Gondo and Matt Weaver",4
+"13","Stephen Downes",3
+"14","Parry Jones",3
+"23","Toby Hart",3
+"38","Michael F. McConnell",3
+"20","Allan Hope",2
+"29","Gabriel Espinoza",2
+"39","Nicholas Rhodes",2
+"54","Crystal V Filep",2
+"1","Gabrielle McKenzie",1
+"2","Peter William Dean ",1
+"3","Phoebe ide",1
+"4","Moira Lucy Thomson",1
+"5","Oska Rego",1
+"8","Meghann Audrey Elizabeth North",1
+"9","Carol Devine",1
+"10","Alex van der Weerden",1
+"11","Steve Seo",1
+"12","Stoker.co.nz I think (not mine)",1
+"15","Ivan Geddes",1
+"17","Kaylene Daggar",1
+"18","Zolan Davis",1
+"19","T Kirk",1
+"21","Derek Gunn",1
+"24","Yimaj Baharun",1
+"25","Tim Smith",1
+"26","Chase Manning",1
+"27","Dylan Lee",1
+"28","Ramon Quennell",1
+"30","Morgan Bennet",1
+"31","Gregor Macaulay",1
+"32","Caleb Cuttriss",1
+"33","Matthew Parry",1
+"34","Nick Jackson",1
+"35","Robert Stein",1
+"36","Brian",1
+"37","Timothy Smith",1
+"40","Steven Lee &amp; Matt Winder",1
+"41","Dave Hood",1
+"42","Hundertwasser ",1
+"43","Crob Robinson",1
+"44","Matt Woods",1
+"45","Milosh Petrovic",1
+"46","Josh Bonnar",1
+"47","T Campbell",1
+"48","john edmnonds",1
+"49","Toni Cocker",1
+"50","Gouke. M. Leek",1
+"51","Kaanzamaan",1
+"52","Elaine Huddy",1
+"53","Cameron Young",1
+"55","Richard Leonard Dougherty",1
+"56","Kyle Lockwood",1
+"57","Chris Yarnton",1
+"58","Alan Waters",1
+"59","Geoff Smith",1
+"60","Unknown",1
+"61","Gavin Ainsley John Currie",1
+"62","Erin Bonnar",1
+"63","Richelle Adams",1
+"64","Luke Smith",1
+"65","Jack",1
+"66","ALASTAIR DUFF",1
+"67","Gouke M Leek",1
+"68","Andrew Cornish",1
+"69","Trevor Andrews",1
+"70","Luke Calder",1
+"1" "Number of Artists:  70"
+"1" "Number of Submissions:  97"
+"1" "Entries Per Person in City:  0.000479083320985825"
+"1" "Ratio of Artists to People in City:  0.000345730231639255"

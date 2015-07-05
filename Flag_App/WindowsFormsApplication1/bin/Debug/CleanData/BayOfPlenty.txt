@@ -1,0 +1,71 @@
+"","Artists","Submissions"
+"6","Geoff Mason",36
+"12","Paul G Regan",9
+"16","Cris Smith",9
+"11","Hamish Duncanson",6
+"7","Cameron Smith",3
+"14","Modification of Hamish Fraser from Canterbury and Kyle Lockwood design from Canterbury",3
+"25","Mick Scott",3
+"9","Seth H. Leetcher",2
+"10","Cris M Smith",2
+"15","Daryl Buyn",2
+"32","Peter Doyle",2
+"39","Cameron",2
+"42","Chris Roberts",2
+"1","Father Peter Penny",1
+"2","Lorraine Bailey",1
+"3","Mr R Browne",1
+"4","Linda Biddington",1
+"5","Hunter Puterangi",1
+"8","John Hepburn",1
+"13","Max Raymond",1
+"17","V. M. Musin",1
+"18","A variation of Kyle Lockwoods design in black ",1
+"19","M Clark &amp; S Duncan",1
+"20","Ian Carter",1
+"21","Terry Nicholls",1
+"22","Katherine Sparrow",1
+"23","Melanie Hartwell ",1
+"24","Quentin Quaadgras",1
+"26","Taylor Tharp",1
+"27","Jade Darvill",1
+"28","Stu Donald",1
+"29","Tim Pringle",1
+"30","Kyle Lockwoods fern",1
+"31","Peter Buckton",1
+"33","Dan Branda",1
+"34","Robert Calvert",1
+"35","Jeff Litchfield",1
+"36","Jean Cule",1
+"37","Laulie From Auckland",1
+"38","James Albert McKay",1
+"40","Timo Rannali",1
+"41","S P Samuelu",1
+"43","Aidan Dowrick",1
+"44","Rj shrestha",1
+"45","Douglas Fanning",1
+"46","Sharna Steer",1
+"47","G Roberts",1
+"48","Caitlin Roux",1
+"49","laura",1
+"50","Su Jin Lau",1
+"51","Trevor Johnston",1
+"52","Melissa Thompson",1
+"53","John Patrick Smith",1
+"54","Dominic Geddys-Cook",1
+"55","Rickard Family",1
+"56","Graham Hodson",1
+"57","JNG HETHERINGTON",1
+"58","Terry Edwards",1
+"59","Phoebe Shum",1
+"60","Neil Shore",1
+"61","Chris Timmins",1
+"62","Wayne Skinner",1
+"63","Robert Butler",1
+"64","David McNamara",1
+"65","Sam Parker",1
+"66","Eric Hunt",1
+"1" "Number of Artists:  66"
+"1" "Number of Submissions:  134"
+"1" "Entries Per Person in City:  "
+"1" "Ratio of Artists to People in City:  "

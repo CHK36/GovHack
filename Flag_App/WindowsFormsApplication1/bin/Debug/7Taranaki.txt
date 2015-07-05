@@ -1,0 +1,54 @@
+/assets/flags-designs/10230-nzrepflag.jpg,two Seas,Mike Rowley,0
+/assets/flags-designs/14890-aotearoafern-variation203.jpg,Aotearoa Fern (variation 203),Michael McDonald,0
+/assets/flags-designs/14197-aotearoaunited-variation101.jpg,Aotearoa United (variation 101),Michael McDonald,0
+/assets/flags-designs/14211-aotearoaunited-variation302.jpg,Aotearoa United (variation 302),Michael McDonald,0
+/assets/flags-designs/9511-aotearoafernscross-5x3.jpg,Aotearoa Ferns Cross,T M van Hattum,0
+/assets/flags-designs/9436-goodqualitynzflag5.jpg,Spirit of the Southern Cross,Geoff Hughes,0
+/assets/flags-designs/14649-aotearoafern-variation202.jpg,Aotearoa Fern (variation 202),Michael McDonald,0
+/assets/flags-designs/zeal-of-nations-2.jpg,Zeal of nations 2,Roy and Mijina McDowall,0
+/assets/flags-designs/9522-aotearoaferns-5x3.jpg,Aotearoa Ferns,T M van Hattum,0
+/assets/flags-designs/15097-aotearoafern-variation104.jpg,Aotearoa Fern (variation 104),Michael McDonald,0
+/assets/flags-designs/19587-fullsizerender.jpg,The Unfolding,Alec Hutchinson,0
+/assets/flags-designs/Flag-by-J-Schoen.jpg,Simplified Fern Flag ,Joachim Schoen,0
+/assets/flags-designs/5683-goodqualitynzflag.jpg,Spirit of the Southern Cross,Geoff Hughes,0
+/assets/flags-designs/11458-whiteredcrossnoedgesstars.jpg,Simplistic Meaning,Cade Hunger,0
+/assets/flags-designs/8575-flag-of-tokyo-prefecture-svg.jpg,Simplicity,Spede Pasanen,0
+/assets/flags-designs/3318-fb-img-1423187660917.jpg,kotahitanga/unity,Jamie Dombroski,0
+/assets/flags-designs/14205-aotearoaunited-variation202.jpg,Aotearoa United (variation 202),Michael McDonald,0
+/assets/flags-designs/2506-shadowed-fern-and-crux.jpg,Southern cross with silver fern,william prentice,0
+/assets/flags-designs/19509-image.jpg,New Zealand Flag,Ian Gundesen and Shane Dunlop,0
+/assets/flags-designs/6175-koru-flag-svg.jpg,Koru Flag,Hundertwasser ,0
+/assets/flags-designs/16024-flagsuggestion.jpg,Unity,David Gall,0
+/assets/flags-designs/16129-image.jpg,Nz,Brenda Ardern ,0
+/assets/flags-designs/14893-aotearoafern-variation204.jpg,Aotearoa Fern (variation 204),Michael McDonald,0
+/assets/flags-designs/14874-aotearoaunited-variation103.jpg,Aotearoa United (variation 103),Michael McDonald,0
+/assets/flags-designs/14877-aotearoaunited-variation104.jpg,Aotearoa United (variation 104),Michael McDonald,0
+/assets/flags-designs/3321-fb-img-1423187664562.jpg,unity/kotahitanga ,Jamie Dombroski,0
+/assets/flags-designs/14646-aotearoafern-variation201.jpg,Aotearoa Fern (variation 201),Michael McDonald,0
+/assets/flags-designs/9855-aotearoafernscross-2x1straight.jpg,Aotearoa Ferns Cross (stylised),T M van Hattum,0
+/assets/flags-designs/18139-peopleofaotearoaforeverofthesame.jpg,People of Aotearoa Forever of the Same,Joy Apps,0
+/assets/flags-designs/13221-fqnvbxjt.jpg,The open ocean,Matt McGregor,0
+/assets/flags-designs/9382-fkbvvkvd.jpg,Mount Taranaki with Koru Wave and Southern Cross,David Wolkoff,0
+/assets/flags-designs/14199-aotearoaunited-variation102.jpg,Aotearoa United (variation 102),Michael McDonald,0
+/assets/flags-designs/5692-pikourawhanake-green-black-red-white.jpg,Pikoura Whanake,Joel Wirāmu Pauling,0
+/assets/flags-designs/14202-aotearoaunited-variation201.jpg,Aotearoa United (variation 201),Michael McDonald,0
+/assets/flags-designs/14236-aotearoaunited-variation403.jpg,Aotearoa United (variation 403),Michael McDonald,0
+/assets/flags-designs/14889-aotearoafern-variation103.jpg,Aotearoa Fern (variation 103),Michael McDonald,0
+/assets/flags-designs/14896-aotearoaunited-variation105.jpg,Aotearoa United (variation 105),Michael McDonald,0
+/assets/flags-designs/14641-aotearoafern-variation101.jpg,Aotearoa Fern (variation 101),Michael McDonald,0
+/assets/flags-designs/14644-aotearoafern-variation102.jpg,Aotearoa Fern (variation 102),Michael McDonald,0
+/assets/flags-designs/17731-image.jpg,Kiwi Fern,Francis O&#039;Sullivan-Lobb,0
+/assets/flags-designs/14235-aotearoaunited-variation402.jpg,Aotearoa United (variation 402),Michael McDonald,0
+/assets/flags-designs/14883-aotearoaunited-variation304.jpg,Aotearoa United (variation 304),Michael McDonald,0
+/assets/flags-designs/15103-aotearoafern-variation206.jpg,Aotearoa Fern (variation 106),Michael McDonald,0
+/assets/flags-designs/14208-aotearoaunited-variation301.jpg,Aotearoa United (variation 301),Michael McDonald,0
+/assets/flags-designs/15100-aotearoafern-variation205.jpg,Aotearoa Fern (variation 205),Michael McDonald,0
+/assets/flags-designs/9367-mkzjknht.jpg,Mount Taranaki with Koru Wave,David Wolkoff,0
+/assets/flags-designs/10752-rvvnupqm.jpg,Penningtons,Ross and Oliver Pennington,0
+/assets/flags-designs/9859-crossaotearoaferns-5x3straight.jpg,Cross Aotearoa Ferns (stylised),T M van Hattum,0
+/assets/flags-designs/zeal-of-nations-flag.jpg,Zeal of nations,Roy and Mijina McDowall,0
+/assets/flags-designs/14239-aotearoaunited-variation404.jpg,Aotearoa United (variation 404),Michael McDonald,0
+/assets/flags-designs/13222-flag.jpg,Silver fern,Blake Cameron,0
+/assets/flags-designs/1863-nzflag.jpg, Anárion,Arvedui Eärnil,0
+/assets/flags-designs/14232-aotearoaunited-variation401.jpg,Aotearoa United (variation 401),Michael McDonald,0
+/assets/flags-designs/14880-aotearoaunited-variation303.jpg,Aotearoa United (variation 303),Michael McDonald,0

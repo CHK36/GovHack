@@ -1,0 +1,51 @@
+"","Artists","Submissions"
+"3","Richard Aslett",6
+"23","glen williams",4
+"6","Simon McIvor",3
+"16","Jose Perezgonzalez",3
+"7","Heather Knox",2
+"12","Shannan Stafford-Hyde",2
+"13","Phillip Andrews",2
+"14","Nathan Stevens",2
+"15","Daniel Wylie",2
+"18","Benjamin Davis",2
+"20","Gavin Roache",2
+"1","Regan",1
+"2","Malcolm Harbrow",1
+"4","Otis Frizzell",1
+"5","Ruedi Hersche",1
+"8","Kyle Lockwood",1
+"9","Jason Keanu",1
+"10","Ephraim &quot;The Art Athlete&quot; Russell",1
+"11","Michael Tuffin",1
+"17","Nick ",1
+"19","Toby Parkes",1
+"21","Connor Rees",1
+"22","Lyn MacDonald",1
+"24","James Williams",1
+"25","Dick Frizzell",1
+"26","Mya Charlton",1
+"27","Graham Smith (idea) / Richard Aslett (design)",1
+"28","Nathan Stirling ",1
+"29","Marc Barry",1
+"30","Cameron Luke Smith",1
+"31","Kyle Lockwood fern",1
+"32","Glen Williams",1
+"33","Jordan McNamara-Spackman",1
+"34","Patrick Gledhill",1
+"35","Dave charnley ",1
+"36","Jonty Goisford",1
+"37","Peneamine Heketa Manihera",1
+"38","Nick",1
+"39","Russell Harris",1
+"40","Pete Watson",1
+"41","david kauri",1
+"42","Graham Smith and Richard Aslett",1
+"43"," ",1
+"44","Justin Ward and 10 cent coin designer",1
+"45","Michael Robins",1
+"46","Bernard Kriel",1
+"1" "Number of Artists:  46"
+"1" "Number of Submissions:  65"
+"1" "Entries Per Person in City:  0.000291913108694969"
+"1" "Ratio of Artists to People in City:  0.000206584661537978"

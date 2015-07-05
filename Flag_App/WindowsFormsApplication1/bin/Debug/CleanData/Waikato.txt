@@ -1,0 +1,128 @@
+"","Artists","Submissions"
+"9","Bob Stenhouse",10
+"11","Nick Atkinson",7
+"20","brett sheppard",7
+"1","MICHAEL FRANCIS BARKER",6
+"5","Barbara Peddie",6
+"15","Nick S",5
+"18","Fiona Hayward-Rawlinson",5
+"21","willie wang",4
+"6","Mark Naudé",3
+"19","James Whetu",3
+"24","Maree Hastie",3
+"25","Liani Bliss Ball",3
+"54","Simon Clark",3
+"58","Kevin Helas",3
+"65","Daryl John",3
+"74","C. Fielder",3
+"91","Lee Churchman",3
+"12","joel nohe",2
+"16","Eric Zhao",2
+"17","S P Samuelu",2
+"33","Elwyn Monrad",2
+"44","Mark Naude",2
+"53","Kyle Lockwood",2
+"61","Richard Stowers",2
+"85","Nikola A Borota",2
+"88","Chris Roberts",2
+"95","Ian Murphy",2
+"97","Tino Rangatiratanga flag",2
+"109","Richard Jack",2
+"2","Ben Gallogly",1
+"3","Barry Brunton",1
+"4","Jessica Brown Graham",1
+"7","Alex Hislop",1
+"8","Martyn O&#039;Brien",1
+"10","Aka Ankka",1
+"13","Rebekah Wilson",1
+"14","Keara Costar",1
+"22","Patrick Burke",1
+"23","Thor Hilmarsson",1
+"26","Michelle Edlin",1
+"27","Claudine ",1
+"28","Peter Melville SPENCE",1
+"29","Dick Oliver",1
+"30","Patricia L Lloyd",1
+"31","Duncan Design",1
+"32","Robbie Price",1
+"34","Duley Family of Pukekohe",1
+"35","Nick S ",1
+"36","Lynton Mardon",1
+"37","Hundertwasser ",1
+"38","Amor Fati",1
+"39","Rachel Hilliar",1
+"40","Katelyn Hedley",1
+"41","murray furze",1
+"42","A. Fielder",1
+"43","Raneigh Hannah (Renee)",1
+"45","Scott Liddell",1
+"46","JOHN FARNHAM",1
+"47","David Frew",1
+"48","Ethan Carr",1
+"49","Carol Ann Rowe",1
+"50","Ian James Hawthorn",1
+"51","Alice and Chris Parminter",1
+"52","Sigrid Christiansen",1
+"55","Aidan Smith",1
+"56","Darren Bent",1
+"57","Claudia Roth",1
+"59","Graham McCarthy",1
+"60","Sam York",1
+"62","Callum Hammond",1
+"63","KayKay",1
+"64","Rick Millen",1
+"66","Gordon Fitzroy-Kelly",1
+"67","Joginder Singh",1
+"68","Patricio Olivera",1
+"69","Peter G. Taylor",1
+"70","Emma T",1
+"71","Brendan Steed",1
+"72","Richard Oliver",1
+"73","Ian Hemingway",1
+"75","Susie &amp; Peter Hobman",1
+"76","Trevor Ramsey",1
+"77","Sheamus Brosnan",1
+"78","Alfonso Mackinnon",1
+"79","fern leaf wreath by Mark Naude",1
+"80","LYNNE SIBLY",1
+"81","Keith Warwick DULEY",1
+"82","Ella Cross",1
+"83","Nikola Alexander Borota",1
+"84","(Hiraina Marsden",1
+"86","Clark Titman",1
+"87","My variation of Jordan Morris&#039; &quot;United New Zealand&quot;",1
+"89","My variation of Chris Pettit&#039;s Maheno Te Punga - from a design by Gordon Walters",1
+"90","Logan Kinnaird",1
+"92","Rod Young",1
+"93","Ari Angelo",1
+"94","Frank Bailey",1
+"96","Jarman Smith",1
+"98","Alison Choppin",1
+"99","F.J.Graham",1
+"100","Derek and Susan Holm",1
+"101","Filisi Taulagi",1
+"102","Kaitlyn Johnstone",1
+"103","John Henson",1
+"104","Dean Sharpe",1
+"105","Andrew Chain",1
+"106","John",1
+"107","David Astil",1
+"108","Elinor Harris",1
+"110","My second variation of Jordan Morris&#039; &quot;United New Zealand&quot; from Waikato",1
+"111","Kieran Leng",1
+"112","Willie Wang",1
+"113","Bert Hopkins",1
+"114","Margret",1
+"115","Cameron Sanders",1
+"116","Donald Preston Locke",1
+"117","Meister Keno",1
+"118","Sam Pixel York",1
+"119","Neil Shore",1
+"120","Peter John Burgess",1
+"121","Sophie whyte",1
+"122","John Lewis",1
+"123","It is an edit of the existing flag. ",1
+"1" "Number of Artists:  123"
+"1" "Number of Submissions:  195"
+"1" "Entries Per Person in City:  0.000483106149569664"
+"1" "Ratio of Artists to People in City:  0.000304728494343942"
