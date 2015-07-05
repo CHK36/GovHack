@@ -1,0 +1,93 @@
+/assets/flags-designs/1983-te-haki.jpg,te Haki,Bret de Thier,0
+/assets/flags-designs/13303-ipbarkers-flagdesign.jpg,Kiwi i runga i te ma,Rhyce Barker,0
+/assets/flags-designs/5962-dstmvxrf.jpg,Deep Sky,Jamie O&#039;Meagher,0
+/assets/flags-designs/11149-nzflagdesignmatariki.jpg,Matariki Rising 2,Ray Genet,0
+/assets/flags-designs/10452-evolving-nation.jpg,Evolving Nation,Aidan Curran,0
+/assets/flags-designs/16395-2013-0329book0002a.jpg,Symbolizes New Zealand,Arthur Hawke,0
+/assets/flags-designs/10045-nz-tricolour-flag-silver-fe.jpg,New Zealand Tricolour with silver fern emblem,Aidan Curran,0
+/assets/flags-designs/1614-matariki-at-midnight.jpg,Matariki at Midnight,Dave van der Velden,0
+/assets/flags-designs/6796-qgcnqvbm.jpg,Deep Sky (Version 3),Jamie O&#039;Meagher,0
+/assets/flags-designs/6793-njpvnntq.jpg,Deep Sky (Version 2),Jamie O&#039;Meagher,0
+/assets/flags-designs/14157-20150604-230510.jpg,Going  Forward ,Ray Bolderson Design ,0
+/assets/flags-designs/10308-nz-flag-diaganol2.jpg,This is New Zealand,Aidan Curran,0
+/assets/flags-designs/1576-fb-img-1431082899003.jpg,Kyle Lockwood Silver fern in Blue/Black ,Kyle Lockwood,0
+/assets/flags-designs/6774-southerncross.jpg,&#039;Southern Cross&#039;,Lars Rud Fyhn ,0
+/assets/flags-designs/10605-nzflagv1pz-07.jpg,Raranga/Weave 07,Pax Zwanikken,0
+/assets/flags-designs/18175-tdwkzcwt.jpg,Maunga-Moana,Ross Cullen,0
+/assets/flags-designs/15405-nzflagv2pz-raragna08.jpg,Raranga/Weave 08,Pax Zwanikken,0
+/assets/flags-designs/15415-nzflagv2pz-raragna11.jpg,Raranga/Weave 11,Pax Zwanikken,0
+/assets/flags-designs/11143-scandinavianlook.jpg,New Zealand Cross,Ray Genet,0
+/assets/flags-designs/Flag-r2.jpg,Banded red and blue silver fern flag,Hamish Paice,0
+/assets/flags-designs/15409-nzflagv2pz-raragna10.jpg,Raranga/Weave 10,Pax Zwanikken,0
+/assets/flags-designs/13213-newzealandcruxhaki1a.jpg,New Zealand Flag / New Zealand Haki,Tao Wells,0
+/assets/flags-designs/12259-img-0253.jpg,Koru ties us together version 2,Alistair Turley,0
+/assets/flags-designs/8662-kiwi3.jpg,kiwi3,Thomas Newton,0
+/assets/flags-designs/6301-greencrossofstgeorgethickercross.jpg,The Green Cross,Ray Genet,0
+/assets/flags-designs/15417-nzflagv2pz-raragna12.jpg,Raranga/Weave 12,Pax Zwanikken,0
+/assets/flags-designs/2604-flag+now+5+tao+wells.jpg,New Zealand Flag / New Zealand Haki,Tao Wells,0
+/assets/flags-designs/11352-nzflag.jpg,Stars and Bars,Sally Gaffney,0
+/assets/flags-designs/19207-sunjsfup.jpg,Matau design idea,Richard de Hamel,0
+/assets/flags-designs/14869-flag.jpg,Kiwi Traditional,Doug &amp; Alan Gordon,0
+/assets/flags-designs/9970-flag.jpg,New Zealand Flag,Frank van der Plas,0
+/assets/flags-designs/2532-nz-flag-suggestion-600x330.jpg,Fern/star blue,Kyle Lockwood,0
+/assets/flags-designs/12772-bggvvwfx.jpg,Hope for the world,Amberli Hartwell,0
+/assets/flags-designs/11142-scandinavianlookindigo.jpg,New Zealand Cross,Ray Genet,0
+/assets/flags-designs/4098-image.jpg,NZ flag,Bruce Collings,0
+/assets/flags-designs/13282-nzflagblue-blacksilverfern2.jpg,Blue-Black Silver Fern 2,Greg Keeble,0
+/assets/flags-designs/11115-nz-flag-diaganol-black-red-.jpg,Diagonal black &amp; red with silver fern,Aidan Curran,0
+/assets/flags-designs/11118-this-is-nz-with-fern.jpg,This is New Zealand - with silver fern,Aidan Curran,0
+/assets/flags-designs/10600-nzflagv1pz-05.jpg,Raranga/Weave 05,Pax Zwanikken,0
+/assets/flags-designs/10353-nzflagv1pz-01.jpg,Raranga/Weave 01,Pax Zwanikken,0
+/assets/flags-designs/13831-koruwithlargerstars.jpg,Koru ties us together version 3,Alistair Turley,0
+/assets/flags-designs/10356-nzflagv1pz-02.jpg,Raranga/Weave 02,Pax Zwanikken,0
+/assets/flags-designs/15424-nzflagv2pz-raragna14.jpg,Raranga/Weave 14,Pax Zwanikken,0
+/assets/flags-designs/12814-flag-for-all3.jpg,Flag for All New Zealanders (variation 3 - simplified),Aidan Curran,0
+/assets/flags-designs/2742-nz-flag.jpg,My NZ,Tim Hunt,0
+/assets/flags-designs/12817-flag-for-all4.jpg,Flag for All New Zealanders (variation 4),Aidan Curran,0
+/assets/flags-designs/10219-koru2.jpg,united 2,ron cox design + graphics,0
+/assets/flags-designs/2437-nz-flag.jpg,My NZ,Tim Hunt,0
+/assets/flags-designs/7575-nzflag.jpg,light beam,Rochelle,0
+/assets/flags-designs/12453-moa1.jpg,moa 1,Ben Timmins,0
+/assets/flags-designs/11715-flag.jpg,Southern Cross over Aotearoa,Harvey Wilson,0
+/assets/flags-designs/3225-nz-flag-2.jpg,just another koru,Tim Hunt,0
+/assets/flags-designs/11124-this-is-nz-link.jpg,This is New Zealand - Connection to past flag,Aidan Curran,0
+/assets/flags-designs/11241-teaomarama2.jpg,Te Ao Marama2,Hundertvasser,0
+/assets/flags-designs/8664-kiwi5.jpg,kiwi5,Thomas Newton,0
+/assets/flags-designs/11160-nzflag.jpg,Te manawa,Robert Jenkin,0
+/assets/flags-designs/6501-flag01.jpg,Southern cross on black,W Samuels,0
+/assets/flags-designs/19080-southernquestnzflagdesign.jpg,Southern Quest,Stephen Harris,0
+/assets/flags-designs/14074-lnpvcbkv.jpg,Hope,Robert MacKay,0
+/assets/flags-designs/8766-nzflagconcepta.jpg,Quintessentially Kiwi,Penny Royal,0
+/assets/flags-designs/15430-nzflagv2pz-raragna16.jpg,Raranga/Weave 16,Pax Zwanikken,0
+/assets/flags-designs/10137-nz-flag-diaganol-southern-c.jpg,New Zealand diaganol tricolour with southern cross,Aidan Curran,0
+/assets/flags-designs/10435-nz-flag-diaganol3.jpg,This is New Zealand - Blue,Aidan Curran,0
+/assets/flags-designs/10603-nzflagv1pz-06.jpg,Raranga/Weave 06,Pax Zwanikken,0
+/assets/flags-designs/10155-nz-southern-cross.jpg,New Zealand Southern Cross,Aidan Curran,0
+/assets/flags-designs/16596-newzealandflagbyrobhornibrooke.jpg,Beautiful New Zealand,Robert Hornibrooke,0
+/assets/flags-designs/10216-koru.jpg,United,ron cox design + graphics,0
+/assets/flags-designs/11122-this-is-nz-with-southern-cr.jpg,This is New Zealand - with southern cross,Aidan Curran,0
+/assets/flags-designs/10135-nz-flag-diaganol.jpg,New Zealand diaganol tricolour,Aidan Curran,0
+/assets/flags-designs/15433-nzflagv2pz-raragna18.jpg,Raranga/Weave 18,Pax Zwanikken,0
+/assets/flags-designs/10362-nzflagv1pz-04.jpg,Raranga/Weave 04,Pax Zwanikken,0
+/assets/flags-designs/12474-moa2.jpg,Moa ,Ben Timmins,0
+/assets/flags-designs/11112-ozone.jpg,Ozone Sky,Pax Zwanikken,0
+/assets/flags-designs/14148-dscf0222.jpg,Commonwealth and fern,Steven Galpin,0
+/assets/flags-designs/2088-starfernbr.jpg,Star Fern flag,Barry McDonald,0
+/assets/flags-designs/10030-nz-tricolour-flag.jpg,New Zealand Tricolour,Aidan Curran,0
+/assets/flags-designs/18327-possiblenewnzflag.jpg,Modified Tino Rangatira Flag,Bernsrd Leslie Redshaw,0
+/assets/flags-designs/16107-nzflag.jpg, Inbetween Rangi and Papa,Kay McQuire,0
+/assets/flags-designs/15421-nzflagv2pz-raragna13.jpg,Raranga/Weave 13,Pax Zwanikken,0
+/assets/flags-designs/19290-nzflagdesighjpeg.jpg,United Kiwis,Miritza Vining,0
+/assets/flags-designs/6307-scandinavianlookindigonoblackbrightgreen.jpg,New Zealand Cross,Ray Genet,0
+/assets/flags-designs/7693-mikerodwellsflag.jpg,victory flag mk V,Mike Rodwell,0
+/assets/flags-designs/New-NZ-Flag-r1.jpg,Phil&#039;s new NZ Flag,Philip Peter HICKFORD,0
+/assets/flags-designs/10146-nz-flag-diaganol-silver-fer.jpg,New Zealand diaganol tricolour withsilver fern,Aidan Curran,0
+/assets/flags-designs/16143-popppp1.jpg,The Heart Of The Fern ,Marlene Naude,0
+/assets/flags-designs/12867-cgxsdldw.jpg,Green Ensign,Benb Mitchell and James Merwood,0
+/assets/flags-designs/12811-flag-for-all2.jpg,Flag for All New Zealanders (variation 2),Aidan Curran,0
+/assets/flags-designs/11146-nzflagdesignmatarikiandaotearoa.jpg,Matariki Rising,Ray Genet,0
+/assets/flags-designs/8667-newnz.jpg,NEW NEW ZEALAND,Thomas Newton,0
+/assets/flags-designs/15406-nzflagv2pz-raragna09.jpg,Raranga/Weave 09,Pax Zwanikken,0
+/assets/flags-designs/11544-flag-01.jpg,Pikorua to join us all,Stephanie Parkin,0
+/assets/flags-designs/2133-kiwi-style.jpg,identify with NZ,ian kearney,0
+/assets/flags-designs/10359-nzflagv1pz-03.jpg,Raranga/Weave 03,Pax Zwanikken,0
